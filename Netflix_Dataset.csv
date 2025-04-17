@@ -1,0 +1,1001 @@
+id,title,type,release_year,age_certification,runtime,genres,production_countries,seasons,imdb_id,imdb_score,imdb_votes,imdb_popularity,YearGroup
+tm84618,Taxi Driver,MOVIE,1976,R,113,"['crime', 'drama']",['US'],0,tt0075314,8.3,795222,27.612,1970
+tm127384,Monty Python and the Holy Grail,MOVIE,1975,PG,91,"['comedy', 'fantasy']",['GB'],0,tt0071853,8.2,530877,18.216,1970
+tm70993,Life of Brian,MOVIE,1979,R,94,['comedy'],['GB'],0,tt0079470,8,392419,17.505,1970
+tm190788,The Exorcist,MOVIE,1973,R,133,['horror'],['US'],0,tt0070047,8.1,391942,95.337,1970
+ts22164,Monty Python's Flying Circus,SHOW,1969,TV-14,30,"['comedy', 'european']",['GB'],4,tt0063929,8.8,72895,12.919,1960
+tm14873,Dirty Harry,MOVIE,1971,R,102,"['thriller', 'crime', 'action']",['US'],0,tt0066999,7.7,153463,14.745,1970
+tm185072,My Fair Lady,MOVIE,1964,G,170,"['drama', 'music', 'romance', 'family']",['US'],0,tt0058385,7.8,94121,15.949,1960
+tm98978,The Blue Lagoon,MOVIE,1980,R,104,"['romance', 'drama']",['US'],0,tt0080453,5.8,69053,44.038,1980
+tm119281,Bonnie and Clyde,MOVIE,1967,R,110,"['drama', 'crime', 'action']",['US'],0,tt0061418,7.7,111189,15.309,1960
+tm67378,The Professionals,MOVIE,1966,PG-13,117,"['western', 'action', 'european']",['US'],0,tt0060862,7.3,16168,12.155,1960
+tm69778,Lupin the Third: The Castle of Cagliostro,MOVIE,1979,PG,100,"['comedy', 'animation', 'action', 'fantasy', 'family']",['JP'],0,tt0079833,7.6,30277,14.008,1970
+tm69997,Richard Pryor: Live in Concert,MOVIE,1979,R,78,"['comedy', 'documentation']",['US'],0,tt0079807,8.1,5141,4.681,1970
+tm96649,The Long Riders,MOVIE,1980,R,99,"['western', 'crime']",['US'],0,tt0081071,6.9,11329,8.808,1980
+tm89386,Hitler: A Career,MOVIE,1977,PG,150,"['documentation', 'history', 'european']",['DE'],0,tt0191182,7.5,2416,9.305,1970
+tm156453,FTA,MOVIE,1972,R,97,"['comedy', 'documentation', 'music']",['US'],0,tt0068562,6.2,411,2.466,1970
+ts45948,Monty Python's Fliegender Zirkus,SHOW,1972,TV-MA,43,['comedy'],[],1,tt0202477,8.1,2144,1.49,1970
+tm119776,Top Gun,MOVIE,1986,PG,110,"['drama', 'action']",['US'],0,tt0092099,6.9,329656,112.137,1980
+ts20681,Seinfeld,SHOW,1989,TV-PG,24,['comedy'],['US'],9,tt0098904,8.9,302700,128.743,1980
+tm111075,Stand by Me,MOVIE,1986,R,89,['drama'],['US'],0,tt0092005,8.1,392790,16.096,1980
+tm180542,Once Upon a Time in America,MOVIE,1984,R,229,"['drama', 'crime', 'european']","['US', 'IT']",0,tt0087843,8.3,342335,21.322,1980
+tm138875,When Harry Met Sally...,MOVIE,1989,R,96,"['romance', 'comedy', 'drama']",['US'],0,tt0098635,7.7,212913,16.005,1980
+tm155792,Teenage Mutant Ninja Turtles,MOVIE,1990,PG,93,"['scifi', 'action', 'comedy', 'family']","['HK', 'US']",0,tt0100758,6.7,92647,22.75,1990
+tm22327,Full Metal Jacket,MOVIE,1987,R,116,"['drama', 'war']","['GB', 'US']",0,tt0093058,8.3,723306,36.502,1980
+tm54450,Christine,MOVIE,1983,R,90,"['horror', 'thriller', 'european']",['US'],0,tt0085333,6.7,80945,19.311,1980
+tm2386,A Nightmare on Elm Street,MOVIE,1984,R,91,['horror'],['US'],0,tt0087800,7.4,230543,53.853,1980
+ts22082,Knight Rider,SHOW,1982,TV-PG,51,"['action', 'scifi', 'crime', 'drama']",['US'],4,tt0083437,6.9,33760,44.378,1980
+tm145608,Awakenings,MOVIE,1990,PG-13,120,"['drama', 'european']",['US'],0,tt0099077,7.8,137549,13.761,1990
+ts21715,Thomas & Friends,SHOW,1984,TV-Y,10,"['family', 'comedy', 'music', 'action', 'animation', 'fantasy', 'drama']",['GB'],24,tt0086815,6.5,4948,49.384,1980
+tm41289,Annie,MOVIE,1982,PG,127,"['drama', 'family', 'comedy']",['US'],0,tt0083564,6.6,44866,15.857,1980
+tm132694,Pet Sematary,MOVIE,1989,R,103,"['horror', 'fantasy', 'thriller']",['US'],0,tt0098084,6.5,102212,32.854,1980
+ts20678,Saved by the Bell,SHOW,1989,TV-G,23,"['comedy', 'romance', 'family']",['US'],5,tt0096694,7.1,34854,16.945,1980
+tm117580,She's Gotta Have It,MOVIE,1986,R,84,"['comedy', 'romance']",['US'],0,tt0091939,6.7,14277,6.212,1980
+tm20712,Eddie Murphy Raw,MOVIE,1987,R,93,"['comedy', 'documentation']",['US'],0,tt0092948,7.6,19646,9.727,1980
+tm130586,Endless Love,MOVIE,1981,R,116,"['drama', 'romance']",['US'],0,tt0082329,4.9,8374,19.518,1980
+ts25028,Wheel of Fortune,SHOW,1983,TV-G,26,['family'],['US'],39,tt0072584,6.7,3126,1440.855,1980
+ts23753,Major Dad,SHOW,1989,TV-PG,24,"['comedy', 'family']",['US'],4,tt0096643,6.4,2866,7.506,1980
+ts2760,Fireman Sam,SHOW,1987,TV-Y,10,"['comedy', 'animation', 'family', 'crime', 'european']",['GB'],13,tt0329829,6.1,1759,25.697,1980
+ts987,Danger Mouse,SHOW,1981,TV-Y,15,"['comedy', 'family', 'scifi', 'animation', 'european']",['GB'],10,tt0081848,7.4,3514,7.748,1980
+tm21953,Sam Kinison: Breaking the Rules,MOVIE,1987,R,50,"['comedy', 'documentation']",['US'],0,tt0307403,7.2,651,1.791,1980
+tm62924,Monty Python Live at the Hollywood Bowl,MOVIE,1982,R,77,"['comedy', 'documentation']",['GB'],0,tt0084352,7.9,15186,7.641,1980
+ts63001,High Risk,SHOW,1988,TV-PG,50,['comedy'],['US'],1,tt0094478,3.8,6,0.6,1980
+tm11556,The Quick and the Dead,MOVIE,1995,R,107,"['western', 'thriller', 'action', 'romance']","['US', 'JP']",0,tt0114214,6.5,92224,17.543,1990
+ts20981,Survivor,SHOW,2000,TV-PG,48,['reality'],['US'],42,tt0239195,7.4,24368,73.107,2000
+ts22176,Stargate SG-1,SHOW,1997,TV-PG,44,"['scifi', 'drama', 'action']","['US', 'CA']",10,tt0118480,8.4,90196,167.57,1990
+ts21223,Pokémon,SHOW,1997,TV-Y7,22,"['scifi', 'action', 'comedy', 'fantasy', 'animation', 'family']",['JP'],24,tt0168366,7.6,172,138.135,1990
+tm122434,Forrest Gump,MOVIE,1994,PG-13,142,"['drama', 'romance', 'comedy']",['US'],0,tt0109830,8.8,1994599,57.114,1990
+tm106462,Happy Gilmore,MOVIE,1996,PG-13,92,"['comedy', 'sport']",['US'],0,tt0116483,7,217534,16.583,1990
+ts20339,One Piece,SHOW,1999,TV-14,23,"['action', 'comedy', 'animation', 'drama', 'fantasy']",['JP'],21,tt0388629,8.8,112586,105.955,1990
+tm57554,Saving Private Ryan,MOVIE,1998,R,169,"['drama', 'war']",['US'],0,tt0120815,8.6,1346020,54.874,1990
+ts34435,Cowboy Bebop,SHOW,1998,TV-14,25,"['western', 'action', 'scifi', 'thriller', 'animation', 'comedy', 'drama']",['JP'],1,tt0213338,8.9,112887,34.769,1990
+ts20927,Star Trek: Deep Space Nine,SHOW,1993,TV-PG,47,"['scifi', 'action', 'drama']",['US'],7,tt0106145,8.1,61145,61.159,1990
+ts5145,The Challenge,SHOW,1998,TV-14,40,"['reality', 'comedy', 'drama', 'scifi']",['US'],37,tt0176095,7.8,3274,15.699,1990
+tm192405,Gattaca,MOVIE,1997,PG-13,106,"['thriller', 'drama', 'scifi']",['US'],0,tt0119177,7.8,298168,18.355,1990
+ts21567,Gilmore Girls,SHOW,2000,TV-14,46,"['comedy', 'drama']",['US'],8,tt0238784,8.2,119054,51.125,2000
+tm55553,Blade,MOVIE,1998,R,120,"['action', 'scifi', 'horror']",['US'],0,tt0120611,7.1,267181,47.411,1990
+tm56574,You've Got Mail,MOVIE,1998,PG,119,"['romance', 'drama', 'comedy']",['US'],0,tt0128853,6.7,209258,15.015,1990
+tm192037,Starship Troopers,MOVIE,1997,R,129,"['scifi', 'thriller', 'action']",['US'],0,tt0120201,7.3,288960,22.126,1990
+ts20983,Neon Genesis Evangelion,SHOW,1995,TV-14,24,"['scifi', 'action', 'drama', 'thriller', 'fantasy', 'animation']",['JP'],1,tt0112159,8.5,64727,51.993,1990
+ts22193,The Magic School Bus,SHOW,1994,TV-Y,26,"['scifi', 'comedy', 'family', 'fantasy', 'animation']","['US', 'CA']",4,tt0108847,7.8,9708,30.176,1990
+tm191989,Donnie Brasco,MOVIE,1997,R,127,"['thriller', 'drama', 'crime']",['US'],0,tt0119008,7.7,300073,14.769,1990
+ts20960,Power Rangers,SHOW,1993,TV-Y7,22,"['scifi', 'action', 'fantasy', 'family']",['US'],29,tt0106064,6.5,21949,21.083,1990
+tm65686,U.S. Marshals,MOVIE,1998,PG-13,126,"['thriller', 'crime', 'action']",['US'],0,tt0120873,6.5,103263,28.657,1990
+ts11397,Adventures of Sonic the Hedgehog,SHOW,1993,TV-Y7,22,"['action', 'animation', 'scifi', 'western', 'fantasy', 'comedy', 'family']",['US'],4,tt0222518,6.2,3808,23.374,1990
+tm54903,Wild Things,MOVIE,1998,R,108,"['drama', 'thriller', 'crime', 'european']",['US'],0,tt0194542,6.6,118811,22.205,1990
+tm187187,Last Action Hero,MOVIE,1993,PG-13,130,"['comedy', 'action', 'fantasy']",['US'],0,tt0107362,6.4,149290,18.865,1990
+tm191772,Seven Years in Tibet,MOVIE,1997,PG-13,136,"['drama', 'history', 'war']",['US'],0,tt0120102,7.1,141308,14.442,1990
+tm121879,A River Runs Through It,MOVIE,1992,PG,123,['drama'],['US'],0,tt0105265,7.2,59086,16.558,1990
+tm44402,"Girl, Interrupted",MOVIE,1999,R,127,"['drama', 'european']","['US', 'DE']",0,tt0172493,7.3,180532,17.613,1990
+ts22489,Goosebumps,SHOW,1995,TV-PG,22,"['scifi', 'fantasy', 'horror', 'thriller', 'family', 'music']","['CA', 'US']",4,tt0111987,7.6,13361,88.924,1990
+ts25252,Yu-Gi-Oh!,SHOW,1998,TV-Y,22,"['scifi', 'action', 'family', 'fantasy', 'animation', 'comedy', 'drama']",['JP'],7,tt4834194,7.2,20888,75.438,1990
+ts21034,InuYasha,SHOW,2000,TV-14,25,"['action', 'comedy', 'scifi', 'animation', 'drama', 'fantasy', 'romance']",['JP'],9,tt0290223,7.9,15823,149.742,2000
+tm53419,Any Given Sunday,MOVIE,1999,R,162,"['drama', 'sport']",['US'],0,tt0146838,6.9,118479,13.825,1990
+tm189764,Menace II Society,MOVIE,1993,R,97,"['drama', 'crime', 'thriller']",['US'],0,tt0107554,7.5,57399,15.347,1990
+tm9323,Desperado,MOVIE,1995,R,104,"['thriller', 'action', 'crime', 'western', 'european']",['US'],0,tt0112851,7.1,183638,19.718,1990
+tm46173,The Mask of Zorro,MOVIE,1998,PG-13,136,"['action', 'thriller', 'western', 'comedy', 'romance']",['US'],0,tt0120746,6.8,181306,25.426,1990
+tm19673,The Patriot,MOVIE,2000,R,165,"['drama', 'action', 'history', 'war']","['DE', 'US']",0,tt0187393,7.2,270231,20.438,2000
+tm24877,Road Trip,MOVIE,2000,R,93,['comedy'],['US'],0,tt0215129,6.5,167670,16.989,2000
+tm189433,Free Willy,MOVIE,1993,PG,112,"['drama', 'family']","['US', 'FR']",0,tt0106965,6,75244,31.688,1990
+tm1822,3 Ninjas Kick Back,MOVIE,1994,PG,93,"['action', 'comedy', 'family', 'sport']","['US', 'JP']",0,tt15327306,4.5,9208,9.773,1990
+tm187791,In the Line of Fire,MOVIE,1993,R,128,"['drama', 'thriller', 'action', 'crime']",['US'],0,tt0107206,7.2,101939,15.02,1990
+tm19494,The Replacements,MOVIE,2000,PG-13,118,"['comedy', 'sport']",['US'],0,tt0191397,6.6,64087,13.465,2000
+tm10739,Johnny Mnemonic,MOVIE,1995,R,97,"['scifi', 'thriller', 'action', 'drama']","['US', 'CA']",0,tt0113481,5.6,71062,11.747,1990
+tm113576,Little Women,MOVIE,1994,PG,115,"['drama', 'family', 'romance']",['US'],0,tt0110367,7.3,57621,17.027,1990
+tm191387,Anaconda,MOVIE,1997,PG-13,89,"['thriller', 'horror', 'action']","['PE', 'US', 'BR']",0,tt0118615,4.8,103459,31.57,1990
+tm6859,My Girl,MOVIE,1991,PG,103,"['comedy', 'drama', 'family', 'romance', 'european']",['US'],0,tt0102492,6.9,79800,21.381,1990
+tm186589,Cliffhanger,MOVIE,1993,R,112,"['thriller', 'action', 'animation']","['IT', 'US', 'FR']",0,tt0106582,6.5,128179,20.292,1990
+tm191374,I Know What You Did Last Summer,MOVIE,1997,R,101,"['horror', 'thriller']",['US'],0,tt0119345,5.7,142696,18.102,1990
+tm8446,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,MOVIE,1991,PG,88,"['scifi', 'action', 'comedy', 'family']","['US', 'HK']",0,tt0103060,6,55499,16.459,1990
+ts8570,Barney & Friends,SHOW,1992,TV-G,28,['family'],['US'],14,tt0144701,3.8,9955,46.955,1990
+tm21596,Hollow Man,MOVIE,2000,R,112,"['scifi', 'action', 'horror', 'thriller']","['DE', 'US']",0,tt0164052,5.8,130099,24.125,2000
+tm48430,Godzilla,MOVIE,1998,PG-13,133,"['thriller', 'scifi', 'action']",['US'],0,tt0120685,5.4,191722,38.87,1990
+tm192199,Spawn,MOVIE,1997,PG-13,96,"['fantasy', 'horror', 'scifi', 'thriller', 'action', 'drama']",['US'],0,tt0120177,5.2,67761,15.124,1990
+tm184205,Dennis the Menace,MOVIE,1993,PG,95,"['comedy', 'family']",['US'],0,tt0106701,5.6,60779,24.079,1990
+tm12499,The Net,MOVIE,1995,PG-13,114,"['thriller', 'action', 'crime', 'drama']",['US'],0,tt0113957,5.9,66127,11.838,1990
+tm192431,The Devil's Own,MOVIE,1997,R,107,"['thriller', 'drama', 'action', 'crime', 'european']",['US'],0,tt0962637,6.2,64625,11.387,1990
+tm56033,Croupier,MOVIE,1998,R,94,"['thriller', 'european', 'crime', 'drama']","['FR', 'IE', 'GB', 'DE']",0,tt0159382,7,21382,7.89,1990
+tm190486,Teenage Mutant Ninja Turtles III,MOVIE,1993,PG,96,"['fantasy', 'scifi', 'action', 'comedy', 'family']","['HK', 'US']",0,tt0108308,4.7,33128,15.356,1990
+tm61103,The General's Daughter,MOVIE,1999,R,116,"['drama', 'crime', 'thriller']","['US', 'DE']",0,tt0144214,6.4,58726,11.976,1990
+tm117488,The Next Karate Kid,MOVIE,1994,PG,107,"['drama', 'family', 'romance', 'sport', 'action']",['US'],0,tt0110657,4.5,30138,20.882,1990
+tm55732,I Still Know What You Did Last Summer,MOVIE,1998,R,100,"['thriller', 'horror']",['US'],0,tt0130018,4.7,73269,17.756,1990
+tm191431,Double Team,MOVIE,1997,R,93,"['scifi', 'action', 'comedy', 'thriller']","['US', 'HK']",0,tt0119013,4.7,34127,12.697,1990
+tm17721,Under Suspicion,MOVIE,2000,R,110,"['thriller', 'crime', 'drama', 'european']",['US'],0,tt0164212,6.5,25432,11.459,2000
+ts20939,Moesha,SHOW,1996,TV-PG,21,"['drama', 'comedy', 'family']",['US'],6,tt0115275,5.7,3713,7.483,1990
+ts21693,"Sister, Sister",SHOW,1994,TV-PG,22,"['comedy', 'drama', 'family']",['US'],6,tt0108927,6.2,12535,12.029,1990
+ts22286,Cardcaptor Sakura,SHOW,1998,TV-Y7,25,"['scifi', 'comedy', 'drama', 'family', 'fantasy', 'romance', 'animation', 'action']",['JP'],4,tt0221735,8,4936,53.714,1990
+tm190811,Geronimo: An American Legend,MOVIE,1993,PG-13,115,"['western', 'drama', 'history']",['US'],0,tt0107004,6.5,11506,10.551,1990
+tm107659,The Mirror Has Two Faces,MOVIE,1996,PG-13,126,"['romance', 'comedy', 'drama']",['US'],0,tt0117057,6.6,19829,8.391,1990
+ts21581,Girlfriends,SHOW,2000,TV-PG,21,"['comedy', 'drama']",['US'],8,tt0247102,7.2,4482,17.929,2000
+tm7073,Knight Rider 2000,MOVIE,1991,G,91,"['action', 'scifi']",['US'],0,tt0102227,4.5,3178,8.52,1990
+tm63514,The Last Days,MOVIE,1998,PG-13,87,"['drama', 'documentation', 'war']",['US'],0,tt0174852,7.9,4247,4.869,1990
+ts20918,The Parkers,SHOW,1999,TV-PG,19,['comedy'],['US'],5,tt0200353,6.8,2346,9.733,1990
+tm10811,Heavy,MOVIE,1995,R,105,"['romance', 'drama']",['US'],0,tt0113280,6.8,4921,5.31,1990
+ts18465,Dale's Supermarket Sweep,SHOW,1993,TV-G,21,[],['GB'],8,tt0962853,7.1,39,0.947,1990
+tm64817,Jerry Seinfeld: I'm Telling You for the Last Time,MOVIE,1998,G,75,"['comedy', 'documentation']",['US'],0,tt0500140,7.9,5834,5.834,1990
+tm189171,Wild Tango,MOVIE,1993,R,124,"['drama', 'music', 'romance']","['AR', 'ES']",0,tt0108291,6.7,1564,3.259,1990
+tm67635,Kuch Kuch Hota Hai,MOVIE,1998,G,185,"['drama', 'romance', 'comedy']",['IN'],0,tt0172684,7.6,51640,12.564,1990
+ts22080,Oggy and the Cockroaches,SHOW,1999,TV-Y7,9,"['comedy', 'family', 'action', 'animation', 'european']",['FR'],7,tt0213363,7.4,4185,26.074,1990
+ts22039,H,SHOW,1998,TV-MA,25,['comedy'],['FR'],4,tt0173554,7.4,1703,11.362,1990
+tm41525,Herod's Law,MOVIE,1999,R,120,"['drama', 'comedy', 'crime']",['MX'],0,tt0221344,7.8,5943,11.526,1990
+tm7951,Tim Allen: Rewires America,MOVIE,1991,PG,30,"['comedy', 'documentation']",['US'],0,tt0294967,5.9,195,1.339,1990
+ts21684,Heartbreak High,SHOW,1994,TV-MA,47,"['drama', 'romance', 'comedy']",['AU'],7,tt0108800,7.8,3106,16.211,1990
+tm55100,Dil Se..,MOVIE,1998,PG-13,163,"['drama', 'romance']",['IN'],0,tt0164538,7.5,28409,6.381,1990
+tm8859,Oh Darling! Yeh Hai India!,MOVIE,1995,G,153,['comedy'],['IN'],0,tt0114031,4,1678,2.566,1990
+tm52083,West Beirut,MOVIE,1998,PG-13,105,"['romance', 'war', 'comedy', 'drama', 'european']","['BE', 'FR', 'NO', 'LB']",0,tt0157183,7.6,4175,3.996,1990
+tm9898,Muthu,MOVIE,1995,G,165,"['drama', 'comedy', 'romance', 'action']",['IN'],0,tt0140399,7.6,3056,5.577,1990
+tm128925,Chamatkar,MOVIE,1992,G,171,"['comedy', 'fantasy', 'drama', 'crime']",['IN'],0,tt0126234,6.5,6199,5.065,1990
+ts28516,Okupas,SHOW,2000,TV-MA,40,"['crime', 'drama']",['AR'],1,tt0289649,9,2326,6.971,2000
+tm62385,Hum Saath Saath Hain,MOVIE,1999,G,177,"['fantasy', 'romance', 'family', 'drama']",['IN'],0,tt0216817,6.2,8454,4.91,1990
+tm184502,Kabhi Haan Kabhi Naa,MOVIE,1994,G,158,"['comedy', 'drama', 'music', 'romance']",['IN'],0,tt0110222,7.6,18224,5.028,1990
+tm27601,Phir Bhi Dil Hai Hindustani,MOVIE,2000,PG-13,160,"['comedy', 'romance', 'drama']",['IN'],0,tt0222270,6.1,7556,6.39,2000
+tm105716,Chaahat,MOVIE,1996,G,155,"['drama', 'romance']",['IN'],0,tt0172234,5.5,2837,2.947,1990
+tm189773,Maya Memsaab,MOVIE,1993,PG-13,126,"['romance', 'drama', 'thriller']",['IN'],0,tt0137100,5.4,2177,5.307,1990
+tm58893,Duplicate,MOVIE,1998,PG,165,"['comedy', 'action', 'crime', 'thriller']",['IN'],0,tt0164550,5.5,7557,6.309,1990
+tm110225,English Babu Desi Mem,MOVIE,1996,PG,172,"['romance', 'comedy', 'drama']",['IN'],0,tt0136153,4.5,2322,2.135,1990
+tm184224,Sinbad: Afros and Bellbottoms,MOVIE,1993,PG-13,59,"['comedy', 'documentation']",['US'],0,tt0938331,7.8,166,2.935,1990
+tm110160,Avvai Shanmugi,MOVIE,1996,PG-13,160,"['drama', 'comedy']",['IN'],0,tt0139872,7.9,2528,3.988,1990
+tm192301,Minsara Kanavu,MOVIE,1997,G,145,"['comedy', 'drama', 'romance']",['IN'],0,tt0282003,6.7,1212,1.729,1990
+ts4,Breaking Bad,SHOW,2008,TV-MA,48,"['drama', 'thriller', 'crime']",['US'],5,tt0903747,9.5,1727694,337.419,2000
+ts9,The Walking Dead,SHOW,2010,TV-MA,46,"['action', 'drama', 'scifi', 'thriller', 'horror']",['US'],11,tt1520211,8.2,945125,773.19,2010
+ts26091,The Staircase,SHOW,2004,TV-MA,49,"['crime', 'documentation', 'drama']",['FR'],2,tt0388644,7.8,21531,14.185,2000
+ts11,Downton Abbey,SHOW,2010,TV-14,58,"['drama', 'romance', 'european']",['GB'],6,tt1606375,8.7,197744,57.029,2010
+ts21469,Grey's Anatomy,SHOW,2005,TV-14,49,"['drama', 'romance']",['US'],18,tt0413573,7.6,293618,1215.393,2000
+ts288536,The Great British Baking Show,SHOW,2010,TV-PG,57,"['reality', 'european']",['GB'],12,tt1877368,8.6,9564,10.825,2010
+ts6495,Criminal Minds,SHOW,2005,TV-14,44,"['thriller', 'crime', 'drama']",['US'],15,tt0452046,8.1,189191,401.416,2000
+ts22337,NCIS,SHOW,2003,TV-14,44,"['action', 'drama', 'crime', 'thriller', 'comedy']",['US'],19,tt0364845,7.8,141049,254.207,2000
+ts8308,Community,SHOW,2009,TV-PG,23,['comedy'],['US'],6,tt1439629,8.5,252564,48.311,2000
+ts22011,Heartland,SHOW,2007,TV-PG,44,"['drama', 'family']",['CA'],15,tt1094229,8.4,15743,68.46,2000
+ts21465,Supernatural,SHOW,2005,TV-14,45,"['scifi', 'thriller', 'drama', 'fantasy', 'horror']",['US'],15,tt0460681,8.5,428639,406.666,2000
+tm33545,Forgetting Sarah Marshall,MOVIE,2008,R,111,"['comedy', 'drama', 'romance']",['US'],0,tt0800039,7.1,280121,18.358,2000
+tm172683,War of the Worlds,MOVIE,2005,PG-13,117,"['thriller', 'action', 'scifi']",['US'],0,tt0407304,6.5,439027,38.657,2000
+ts17156,Arrested Development,SHOW,2003,TV-MA,28,['comedy'],['US'],5,tt0367279,8.7,297552,54.388,2000
+ts20573,The IT Crowd,SHOW,2006,TV-14,25,"['comedy', 'european']",['GB'],5,tt0487831,8.5,147409,27.917,2000
+ts12724,30 Rock,SHOW,2006,TV-14,25,"['comedy', 'sport']",['US'],7,tt0496424,8.3,121514,34.689,2000
+ts3371,Avatar: The Last Airbender,SHOW,2005,TV-Y7,24,"['scifi', 'family', 'fantasy', 'animation', 'action']",['US'],3,tt0417299,9.3,297336,61.284,2000
+tm92641,Inception,MOVIE,2010,PG-13,148,"['scifi', 'music', 'thriller', 'action']","['GB', 'US']",0,tt1375666,8.8,2268288,109.09,2010
+tm87484,How to Train Your Dragon,MOVIE,2010,PG,98,"['fantasy', 'animation', 'action', 'comedy', 'family', 'drama']",['US'],0,tt0892769,8.1,719717,71.782,2010
+ts20604,Friday Night Lights,SHOW,2006,TV-14,43,"['drama', 'sport']",['US'],5,tt0758745,8.7,64449,32.434,2000
+tm78592,Michael Clayton,MOVIE,2007,R,120,"['thriller', 'crime', 'drama']",['US'],0,tt0465538,7.2,163878,11.418,2000
+ts21511,My Little Pony: Friendship Is Magic,SHOW,2010,TV-Y7,22,"['scifi', 'animation', 'drama', 'fantasy', 'music', 'comedy', 'family']","['CA', 'US']",9,tt1751105,7.6,20708,49.715,2010
+ts19036,The Fairly OddParents,SHOW,2001,TV-Y7,24,"['scifi', 'family', 'fantasy', 'animation', 'comedy']","['US', 'CA']",10,tt0235918,7.2,38046,151.92,2000
+tm116324,Jackass: The Movie,MOVIE,2002,R,88,"['action', 'comedy', 'documentation']",['US'],0,tt0322802,6.6,92305,30.13,2000
+ts32186,Sonic X,SHOW,2003,TV-Y7,21,"['action', 'drama', 'thriller', 'animation', 'comedy', 'fantasy', 'family', 'scifi']",['JP'],3,tt0367413,6.1,4577,104.486,2000
+ts11313,DEATH NOTE,SHOW,2006,TV-14,24,"['scifi', 'animation', 'crime', 'drama', 'fantasy', 'thriller']",['JP'],1,tt0877057,9,302147,104.037,2000
+tm34310,Zoolander,MOVIE,2001,PG-13,90,"['comedy', 'european']","['US', 'DE']",0,tt0196229,6.5,260975,19.411,2000
+ts21247,The Vampire Diaries,SHOW,2009,TV-14,42,"['scifi', 'drama', 'thriller', 'fantasy', 'horror', 'romance']",['US'],8,tt1405406,7.7,310776,463.661,2000
+tm160815,Charlie and the Chocolate Factory,MOVIE,2005,PG,106,"['fantasy', 'comedy', 'family']","['GB', 'US', 'AU']",0,tt0367594,6.6,465995,156.231,2000
+tm78671,Cleaner,MOVIE,2007,R,88,"['thriller', 'crime']",['US'],0,tt0896798,6.1,41052,9.202,2000
+tm89036,Harold & Kumar Go to White Castle,MOVIE,2004,R,88,['comedy'],['US'],0,tt0366551,7,193053,15.067,2000
+tm86803,The Social Network,MOVIE,2010,PG-13,121,['drama'],['US'],0,tt1285016,7.8,681286,33.023,2010
+tm105329,Road to Perdition,MOVIE,2002,R,117,"['thriller', 'documentation', 'crime', 'drama']",['US'],0,tt0257044,7.7,263212,17.73,2000
+ts20305,Naruto,SHOW,2002,TV-PG,23,"['scifi', 'comedy', 'animation', 'action', 'fantasy', 'thriller']",['JP'],6,tt0409591,8.4,93980,362.73,2000
+tm35463,Blow,MOVIE,2001,R,124,"['drama', 'crime']",['US'],0,tt0221027,7.5,255099,19.789,2000
+tm84371,Shooter,MOVIE,2007,R,124,"['thriller', 'action', 'drama']",['US'],0,tt0822854,7.2,329417,42.882,2000
+tm139658,Big Fish,MOVIE,2003,PG-13,125,"['drama', 'fantasy', 'romance']",['US'],0,tt0319061,8,435503,21.904,2000
+tm79442,The Bourne Ultimatum,MOVIE,2007,PG-13,115,"['thriller', 'action']","['DE', 'ES', 'US', 'FR']",0,tt0440963,8,627009,25.464,2000
+tm131038,Public Enemies,MOVIE,2009,R,143,"['crime', 'drama', 'history', 'action', 'european']",['US'],0,tt1152836,7,297525,111.535,2000
+ts2230,America's Next Top Model,SHOW,2003,TV-14,44,['reality'],['US'],24,tt0391576,5.6,17843,12.812,2000
+tm154187,Sherlock Holmes,MOVIE,2009,PG-13,129,"['crime', 'action', 'thriller']","['GB', 'US', 'AU', 'DE']",0,tt0988045,7.6,620154,28.317,2000
+tm133767,Love Actually,MOVIE,2003,R,139,"['drama', 'comedy', 'romance']","['GB', 'US']",0,tt0314331,7.6,474176,21.297,2000
+tm88738,Closer,MOVIE,2004,R,94,"['drama', 'romance']","['GB', 'US']",0,tt0376541,7.2,215678,55.362,2000
+ts17942,Chappelle's Show,SHOW,2003,TV-14,21,"['comedy', 'music']",['US'],3,tt0353049,8.8,62140,13.557,2000
+tm148270,Something's Gotta Give,MOVIE,2003,PG-13,128,"['romance', 'drama', 'comedy']",['US'],0,tt0337741,6.7,120400,15.068,2000
+tm93055,Grown Ups,MOVIE,2010,PG-13,102,"['comedy', 'drama', 'european']",['US'],0,tt1375670,5.9,247229,95.229,2010
+tm133374,The Blind Side,MOVIE,2009,PG-13,129,"['drama', 'sport']",['US'],0,tt0878804,7.6,323939,63.816,2000
+tm26897,Quantum of Solace,MOVIE,2008,PG-13,106,"['thriller', 'action']","['GB', 'US']",0,tt0830515,6.6,441023,30.147,2000
+tm109304,The Ring,MOVIE,2002,PG-13,111,"['horror', 'european']","['JP', 'US']",0,tt0298130,7.1,341888,37.892,2000
+ts22267,Trailer Park Boys,SHOW,2001,TV-MA,25,"['comedy', 'crime']",['CA'],12,tt0290988,8.6,41791,26.26,2000
+tm76066,Into the Wild,MOVIE,2007,R,140,['drama'],['US'],0,tt0758758,8.1,611379,15.658,2000
+tm90190,True Grit,MOVIE,2010,PG-13,110,"['western', 'drama']",['US'],0,tt1403865,7.6,333378,16.059,2010
+tm29737,Rambo,MOVIE,2008,R,92,"['thriller', 'action', 'war', 'european']","['US', 'DE']",0,tt0462499,7,228799,58.435,2000
+tm84906,Stardust,MOVIE,2007,PG-13,122,"['fantasy', 'romance', 'family']","['US', 'IS', 'GB']",0,tt0486655,7.6,269043,17.538,2000
+ts6644,Borgen,SHOW,2010,TV-MA,58,"['drama', 'european']",['DK'],4,tt1526318,8.5,23523,21.761,2010
+tm142086,The Last Samurai,MOVIE,2003,R,154,"['drama', 'history', 'war', 'action']","['NZ', 'JP', 'US']",0,tt0325710,7.8,429097,33.643,2000
+ts22018,iCarly,SHOW,2007,TV-G,26,"['comedy', 'family', 'romance']",['US'],6,tt0972534,6.7,38281,96.149,2000
+ts30311,Victorious,SHOW,2010,TV-G,25,"['comedy', 'drama', 'family', 'music', 'romance', 'sport']",['US'],4,tt1604099,6.9,24224,76.049,2010
+tm95252,The Book of Eli,MOVIE,2010,R,118,"['thriller', 'action', 'drama', 'european']",['US'],0,tt1037705,6.8,312538,25.45,2010
+tm136808,Identity,MOVIE,2003,R,90,['thriller'],['US'],0,tt0340770,7.3,240433,16.442,2000
+ts21197,Merlin,SHOW,2008,TV-PG,44,"['action', 'scifi', 'drama', 'fantasy', 'european']",['GB'],5,tt1199099,7.9,80138,123.15,2000
+tm109137,Shrek Forever After,MOVIE,2010,PG,93,"['fantasy', 'comedy', 'family', 'romance', 'animation']",['US'],0,tt0892791,6.3,200354,89.833,2010
+tm84613,Hairspray,MOVIE,2007,PG,117,"['comedy', 'drama', 'romance']","['US', 'GB']",0,tt0427327,6.7,128190,11.48,2000
+tm173551,Corpse Bride,MOVIE,2005,PG,77,"['fantasy', 'romance', 'animation', 'drama', 'family']",['US'],0,tt0121164,7.3,265023,96.975,2000
+tm94606,Let Me In,MOVIE,2010,R,116,"['horror', 'drama', 'fantasy', 'thriller', 'european']","['GB', 'US']",0,tt1228987,7.1,120208,24.49,2010
+tm136308,Monster,MOVIE,2003,R,110,"['crime', 'drama', 'thriller', 'european']",['US'],0,tt0340855,7.3,149218,16.951,2000
+tm82985,Without a Paddle,MOVIE,2004,PG-13,95,"['thriller', 'comedy']",['US'],0,tt0364751,5.8,47049,13.29,2000
+tm145593,Once Upon a Time in Mexico,MOVIE,2003,R,102,"['drama', 'action', 'crime', 'thriller']",['US'],0,tt0285823,6.3,160449,14.895,2000
+tm150260,Cloudy with a Chance of Meatballs,MOVIE,2009,PG,90,"['animation', 'drama', 'romance', 'comedy', 'family', 'fantasy', 'scifi']",['US'],0,tt0844471,6.9,226225,54.58,2000
+tm119111,Blade II,MOVIE,2002,R,117,"['thriller', 'fantasy', 'scifi', 'action', 'horror']",['US'],0,tt0187738,6.7,214461,50.32,2000
+tm130647,Chloe,MOVIE,2009,R,99,"['thriller', 'drama', 'romance', 'european']","['US', 'CA', 'FR']",0,tt1352824,6.3,72916,10.688,2000
+tm32919,Blood Diamond,MOVIE,2006,R,143,"['thriller', 'drama']","['US', 'DE']",0,tt0450259,8,536858,40.209,2000
+tm23935,The Lake House,MOVIE,2006,PG,105,"['drama', 'fantasy', 'romance', 'documentation']",['US'],0,tt0410297,6.8,148043,15.36,2000
+tm137143,Terminator 3: Rise of the Machines,MOVIE,2003,R,109,"['thriller', 'scifi', 'action', 'european']","['GB', 'US', 'DE']",0,tt0181852,6.3,393998,38.918,2000
+tm28905,Beerfest,MOVIE,2006,R,110,['comedy'],['US'],0,tt0486551,6.2,67748,12.377,2000
+tm44486,Heist,MOVIE,2001,R,107,"['thriller', 'drama', 'action', 'crime', 'european']",['US'],0,tt0252503,6.5,36361,12.634,2000
+tm39487,Catch and Release,MOVIE,2006,PG-13,111,"['romance', 'comedy', 'drama']",['US'],0,tt0395495,5.9,26157,9.67,2000
+tm169949,Just Like Heaven,MOVIE,2005,PG-13,95,"['drama', 'romance', 'fantasy', 'comedy']",['US'],0,tt0425123,6.7,106755,12.741,2000
+ts35155,Gurren Lagann,SHOW,2007,TV-14,24,"['scifi', 'action', 'comedy', 'drama', 'animation']",['JP'],1,tt0948103,8.3,17024,22.238,2000
+tm184913,Four Brothers,MOVIE,2005,R,109,"['crime', 'action', 'drama', 'thriller']",['US'],0,tt0430105,6.8,144656,28.154,2000
+tm118637,John Q,MOVIE,2002,PG-13,116,"['drama', 'thriller', 'crime']",['US'],0,tt0251160,7,131999,17.663,2000
+tm58382,Not Another Teen Movie,MOVIE,2001,R,89,['comedy'],['US'],0,tt0277371,5.7,104604,27.273,2000
+tm40009,21,MOVIE,2008,PG-13,123,"['drama', 'crime', 'history', 'thriller']",['US'],0,tt0478087,6.8,247039,40.786,2000
+ts12787,Code Geass: Lelouch of the Rebellion,SHOW,2006,TV-14,24,"['scifi', 'animation', 'action', 'drama', 'thriller', 'war']",['JP'],3,tt0994314,8.7,62367,36.627,2000
+tm154470,Terminator Salvation,MOVIE,2009,PG-13,110,"['thriller', 'scifi', 'fantasy', 'war', 'action']","['US', 'DE', 'IT', 'GB']",0,tt0438488,6.5,357557,72.272,2000
+tm22294,Deck the Halls,MOVIE,2006,PG,93,"['comedy', 'family']",['US'],0,tt0790604,5,27797,13.817,2000
+tm78067,The Girl Next Door,MOVIE,2007,R,91,"['thriller', 'drama', 'crime', 'horror']",['US'],0,tt0830558,6.5,26035,13.823,2000
+tm148379,The Cat in the Hat,MOVIE,2003,PG,81,"['fantasy', 'comedy', 'family']",['US'],0,tt0312528,4,81971,69.974,2000
+tm21467,Final Destination 3,MOVIE,2006,R,93,"['horror', 'thriller', 'action', 'crime', 'fantasy', 'european']","['CA', 'DE', 'US']",0,tt0414982,5.8,139797,50.649,2000
+tm46436,Thir13en Ghosts,MOVIE,2001,R,91,"['thriller', 'horror', 'fantasy']","['CA', 'US']",0,tt0245674,5.6,86492,46.785,2000
+tm57190,The One,MOVIE,2001,PG-13,87,"['scifi', 'thriller', 'action']",['US'],0,tt0267804,5.9,91584,21.013,2000
+tm37546,Happy Feet,MOVIE,2006,PG,108,"['comedy', 'fantasy', 'animation', 'family', 'music', 'romance']",['AU'],0,tt0366548,6.4,182612,76.506,2000
+tm30205,Ip Man,MOVIE,2008,R,108,"['drama', 'fantasy', 'action', 'history']","['HK', 'CN']",0,tt1220719,8,221095,20.113,2000
+tm159310,Coach Carter,MOVIE,2005,PG-13,130,"['drama', 'sport', 'european']","['US', 'DE']",0,tt0393162,7.3,143670,26.022,2000
+tm89592,Blade: Trinity,MOVIE,2004,R,106,"['action', 'thriller', 'fantasy', 'horror', 'scifi']",['US'],0,tt0359013,5.8,175210,34.514,2000
+tm167516,Monster-in-Law,MOVIE,2005,PG-13,101,"['romance', 'comedy']","['US', 'DE']",0,tt0369735,5.5,60693,18.681,2000
+tm79895,Halloween,MOVIE,2007,R,109,['horror'],['US'],0,tt0373883,6,118815,30.617,2000
+tm88045,How Do You Know,MOVIE,2010,PG-13,121,"['drama', 'comedy', 'romance']",['US'],0,tt1341188,5.4,49599,11.864,2010
+tm111600,The Sweetest Thing,MOVIE,2002,R,84,"['comedy', 'romance']",['US'],0,tt0253867,5.1,58516,11.061,2000
+tm143938,The Final Destination,MOVIE,2009,R,82,"['horror', 'fantasy', 'scifi', 'action', 'thriller']",['US'],0,tt1144884,5.1,104166,51.108,2000
+tm31187,The Other Boleyn Girl,MOVIE,2008,PG-13,115,"['romance', 'drama', 'history']","['GB', 'US']",0,tt0467200,6.7,111694,18.67,2000
+tm141390,Friday the 13th,MOVIE,2009,R,97,"['horror', 'thriller']",['US'],0,tt0758746,5.5,105938,42.83,2000
+tm74780,The Bucket List,MOVIE,2007,PG-13,97,"['drama', 'comedy', 'european']",['US'],0,tt0825232,7.4,242733,19.365,2000
+tm150214,Freddy vs. Jason,MOVIE,2003,R,97,"['horror', 'action']","['IT', 'US']",0,tt0329101,5.7,117986,50.824,2000
+ts21544,Transformers: Prime,SHOW,2010,TV-Y7,22,"['action', 'comedy', 'drama', 'family', 'scifi', 'animation']",['US'],4,tt1659175,7.9,6500,31.514,2010
+tm176528,Memoirs of a Geisha,MOVIE,2005,PG-13,145,"['drama', 'romance', 'european']","['FR', 'JP', 'US']",0,tt0397535,7.3,146847,25.556,2000
+tm102337,A Nightmare on Elm Street,MOVIE,2010,R,95,"['horror', 'thriller', 'crime', 'drama']",['US'],0,tt1179056,5.2,99192,46.304,2010
+tm36188,Body of Lies,MOVIE,2008,R,128,"['drama', 'action', 'thriller']","['GB', 'US']",0,tt0758774,7.1,224896,16.693,2000
+tm88382,A Cinderella Story,MOVIE,2004,PG,95,"['romance', 'comedy', 'family']","['CA', 'US']",0,tt0356470,5.9,86395,31.774,2000
+ts31263,The Mole,SHOW,2001,TV-14,52,['reality'],"['US', 'BE']",5,tt0294149,7.6,1104,4.376,2000
+tm47523,Osmosis Jones,MOVIE,2001,PG,95,"['animation', 'action', 'comedy', 'crime', 'family', 'fantasy', 'scifi']",['US'],0,tt0181739,6.3,35711,14.652,2000
+tm24088,Scary Movie 4,MOVIE,2006,PG-13,83,"['comedy', 'horror']",['US'],0,tt0362120,5.1,120188,45.906,2000
+tm137362,The Texas Chainsaw Massacre,MOVIE,2003,R,98,"['horror', 'crime']",['US'],0,tt0324216,6.2,140741,73.702,2000
+tm177068,Fun with Dick and Jane,MOVIE,2005,PG-13,90,"['comedy', 'crime']",['US'],0,tt0369441,6.1,143998,15.505,2000
+tm82442,TMNT,MOVIE,2007,PG,87,"['animation', 'comedy', 'family', 'fantasy', 'scifi', 'action']","['US', 'HK']",0,tt0453556,6.2,64062,22.181,2000
+tm90864,Due Date,MOVIE,2010,R,95,"['drama', 'comedy']",['US'],0,tt1231583,6.5,339626,31.661,2010
+tm101249,Cop Out,MOVIE,2010,R,107,"['comedy', 'thriller', 'action', 'crime']",['US'],0,tt1385867,5.5,87673,10.863,2010
+ts687,The 4400,SHOW,2004,TV-14,44,"['scifi', 'thriller', 'drama']",['US'],4,tt0389564,7.3,44971,21.12,2000
+ts24028,Still Game,SHOW,2002,TV-14,29,"['comedy', 'european']",['GB'],9,tt0281491,8.9,7539,5.171,2000
+tm142564,3 Idiots,MOVIE,2009,PG-13,170,"['comedy', 'drama']",['IN'],0,tt1187043,8.4,385782,49.398,2000
+ts23752,Midnight Diner,SHOW,2009,TV-MA,27,"['drama', 'comedy']",['JP'],5,tt1882928,8.6,2110,15.027,2000
+ts21706,H2O: Just Add Water,SHOW,2006,TV-PG,25,"['drama', 'scifi', 'fantasy', 'family']",['AU'],3,tt0491603,7.2,14782,21.417,2000
+ts21740,Black Butler,SHOW,2008,TV-MA,25,"['scifi', 'fantasy', 'animation', 'comedy', 'drama', 'thriller', 'crime', 'horror', 'action']",['JP'],3,tt1316554,8.3,1856,27.454,2000
+ts30356,Octonauts,SHOW,2010,TV-Y,15,"['action', 'animation', 'comedy', 'family']",['GB'],6,tt1710177,7.6,1049,39.732,2010
+tm89684,New York Minute,MOVIE,2004,PG,87,"['comedy', 'crime', 'family', 'romance']",['US'],0,tt0363282,4.8,23307,10.357,2000
+ts31514,Strawberry Shortcake,SHOW,2003,TV-Y,23,"['animation', 'family']",['US'],4,tt7996132,7,13,26.42,2000
+ts22005,Total Drama Island,SHOW,2007,TV-PG,23,"['action', 'reality', 'animation', 'family', 'comedy', 'drama']",['CA'],6,tt1173427,7.4,10523,16.775,2000
+tm183963,Dreamer: Inspired By a True Story,MOVIE,2005,PG,106,"['drama', 'family', 'sport', 'fantasy']",['US'],0,tt0487897,6.8,13034,10.751,2000
+tm27268,Monster House,MOVIE,2006,PG,91,"['fantasy', 'animation', 'comedy', 'family']",['US'],0,tt0385880,6.6,114942,47.456,2000
+tm81270,Starsky & Hutch,MOVIE,2004,PG-13,101,"['comedy', 'crime']",['US'],0,tt0335438,6.1,145981,14.252,2000
+tm137342,Tears of the Sun,MOVIE,2003,R,121,"['drama', 'thriller', 'war', 'action']",['US'],0,tt0314353,6.6,121066,33.904,2000
+ts21688,Boys Over Flowers,SHOW,2009,TV-14,64,"['comedy', 'drama', 'romance']",['KR'],1,tt1370334,7.9,11579,75.209,2000
+ts22318,Winx Club,SHOW,2004,TV-G,23,"['action', 'comedy', 'family', 'fantasy', 'animation', 'thriller', 'european']",['IT'],8,tt3233214,6.2,6700,25.162,2000
+tm161263,The Cave,MOVIE,2005,PG-13,97,"['horror', 'thriller', 'scifi', 'action', 'european']","['DE', 'US']",0,tt0403424,5.1,38445,15.813,2000
+ts12815,Big Time Rush,SHOW,2009,TV-G,25,"['comedy', 'family']",['US'],4,tt1131746,6.3,12046,65.327,2000
+tm26638,The Texas Chainsaw Massacre: The Beginning,MOVIE,2006,R,91,"['horror', 'thriller', 'documentation']",['US'],0,tt0420294,5.8,72366,63.011,2000
+tm55303,I Am Sam,MOVIE,2001,PG-13,132,['drama'],['US'],0,tt0277027,7.6,149082,18.529,2000
+tm31189,The Spiderwick Chronicles,MOVIE,2008,PG,96,"['fantasy', 'thriller', 'action', 'drama', 'family']",['US'],0,tt0416236,6.5,94628,30.838,2000
+tm165593,Rumor Has It...,MOVIE,2005,PG-13,97,"['comedy', 'drama', 'romance']",['US'],0,tt0398375,5.5,57894,13.404,2000
+ts15986,Dead Set,SHOW,2008,TV-MA,141,"['scifi', 'thriller', 'comedy', 'drama', 'horror', 'european']",['GB'],1,tt1285482,7.6,19684,9.747,2000
+ts26322,Toradora!,SHOW,2008,TV-14,30,"['animation', 'romance', 'comedy', 'drama']",['JP'],2,tt1279024,8,14307,28.197,2000
+tm78767,I Now Pronounce You Chuck & Larry,MOVIE,2007,PG-13,115,"['comedy', 'romance']",['US'],0,tt0762107,5.9,146625,46.06,2000
+ts98340,Metallica: Some Kind of Monster,SHOW,2004,TV-MA,84,['western'],"['US', 'CA']",1,tt6954486,0,0,0.6,2000
+tm36644,World Trade Center,MOVIE,2006,PG-13,129,"['thriller', 'history', 'drama']",['US'],0,tt0469641,6,83129,15.774,2000
+tm77649,Premonition,MOVIE,2007,PG-13,96,"['thriller', 'drama', 'fantasy']",['US'],0,tt0477071,5.9,78119,18.308,2000
+ts33559,Shaun the Sheep,SHOW,2007,TV-G,7,"['animation', 'comedy', 'family', 'european']",['GB'],6,tt0983983,8,25,24.246,2000
+tm33113,Eagle Eye,MOVIE,2008,PG-13,118,"['thriller', 'action', 'european']","['US', 'DE']",0,tt1059786,6.6,185430,14.168,2000
+tm43399,Lagaan: Once Upon a Time in India,MOVIE,2001,PG,224,"['drama', 'romance', 'sport']",['IN'],0,tt0169102,8.1,111053,7.249,2000
+tm147211,The Men Who Stare at Goats,MOVIE,2009,R,94,"['comedy', 'war']","['GB', 'US']",0,tt1234548,6.2,131564,17.344,2000
+ts56549,Scare Tactics,SHOW,2003,TV-14,22,"['comedy', 'horror', 'reality', 'scifi', 'thriller']",['US'],5,tt0339968,6.7,2512,3.501,2000
+tm29555,Friends with Money,MOVIE,2006,R,88,"['romance', 'comedy', 'drama']",['US'],0,tt0436331,5.8,30186,11.389,2000
+tm93225,Legend of the Guardians: The Owls of Ga'Hoole,MOVIE,2010,PG,100,"['fantasy', 'family', 'action', 'war', 'drama', 'thriller', 'animation']","['US', 'AU']",0,tt1219342,6.9,82623,21.915,2010
+ts21421,Pocoyo,SHOW,2005,TV-G,11,"['animation', 'family', 'comedy', 'european']","['ES', 'GB']",4,tt0487849,3.9,93,21.257,2000
+tm101334,Death at a Funeral,MOVIE,2010,R,92,['comedy'],['US'],0,tt1321509,5.6,49599,11.687,2010
+ts20526,The Game,SHOW,2006,TV-14,22,"['comedy', 'drama', 'sport', 'romance']",['US'],10,tt10020984,6.6,4417,7.989,2000
+ts30083,Angel Beats!,SHOW,2010,TV-14,26,"['scifi', 'action', 'comedy', 'drama', 'fantasy', 'animation']",['JP'],1,tt1639109,7.7,13848,19.033,2010
+tm141707,Blood and Bone,MOVIE,2009,R,93,"['thriller', 'action', 'crime', 'drama', 'sport']",['US'],0,tt0346631,6.7,33051,26.858,2000
+tm103095,Ip Man 2,MOVIE,2010,R,108,"['drama', 'history', 'sport', 'action']","['CN', 'HK']",0,tt1386932,7.5,103673,3.156,2010
+ts23835,Masha and the Bear,SHOW,2009,TV-Y,6,"['comedy', 'family', 'action', 'animation']",['RU'],5,tt1884856,7.6,3114,41.69,2000
+tm83786,Like Stars on Earth,MOVIE,2007,PG,165,"['drama', 'family']",['IN'],0,tt0986264,8.3,188234,12.931,2000
+ts23808,Monty Python: Almost the Truth (The Lawyer's Cut),SHOW,2009,TV-MA,55,"['comedy', 'documentation']",['US'],1,tt1422182,8.1,1740,3.829,2000
+ts20544,Ouran High School Host Club,SHOW,2006,TV-14,23,"['comedy', 'drama', 'animation', 'romance']",['JP'],1,tt0816397,8.2,9763,15.959,2000
+tm27168,Felon,MOVIE,2008,R,103,"['crime', 'thriller', 'drama', 'action']",['US'],0,tt1117385,7.4,78039,12.24,2000
+ts40702,The Ultimatum,SHOW,2009,TV-14,44,['drama'],['SG'],1,tt1682704,5.4,6,1.915,2000
+ts30288,Mobile Suit Gundam Unicorn,SHOW,2010,TV-14,35,"['action', 'drama', 'scifi', 'war', 'animation']",['JP'],2,tt1630623,7.8,1291,14.729,2010
+tm114476,Stuart Little 2,MOVIE,2002,G,78,"['comedy', 'fantasy', 'animation', 'family']",['US'],0,tt0243585,5.5,53746,32.09,2000
+ts21967,Johnny Test,SHOW,2005,TV-Y7,18,"['comedy', 'drama', 'family', 'scifi', 'animation', 'action']","['CA', 'US']",6,tt15061770,5.1,8172,15.75,2000
+ts12701,Code Lyoko,SHOW,2003,TV-G,24,"['action', 'fantasy', 'thriller', 'comedy', 'family', 'scifi', 'romance', 'animation']",['FR'],5,tt0417311,7.3,5109,22.785,2000
+tm130574,Did You Hear About the Morgans?,MOVIE,2009,PG-13,103,"['comedy', 'romance', 'drama']",['US'],0,tt1314228,4.9,40289,8.795,2000
+ts21695,Iris,SHOW,2009,TV-14,61,"['action', 'comedy', 'reality', 'romance', 'thriller']",['KR'],2,tt1399791,7.8,1951,9.565,2000
+ts121176,DreamWorks Shrek's Swamp Stories,SHOW,2010,TV-PG,24,"['horror', 'music', 'animation', 'comedy', 'family', 'fantasy', 'scifi']",['US'],1,tt6950338,6.5,330,6.803,2010
+ts1893,Ben & Holly's Little Kingdom,SHOW,2009,TV-G,14,"['comedy', 'family', 'fantasy', 'animation', 'european']",['GB'],3,tt1436544,7.5,1222,18.311,2000
+ts20535,The Garfield Show,SHOW,2009,TV-G,17,"['animation', 'comedy', 'family', 'european']",['US'],5,tt1470837,5.3,2499,19.716,2000
+tm160800,Chaos,MOVIE,2005,R,106,"['action', 'crime', 'drama', 'thriller', 'european']","['GB', 'US', 'CA']",0,tt0402910,6.4,54633,27.157,2000
+ts38159,Wakfu,SHOW,2008,TV-Y7,22,"['action', 'drama', 'scifi', 'fantasy', 'animation', 'family', 'european']",['FR'],3,tt1807824,8.1,1469,48.59,2000
+tm112381,Comedian,MOVIE,2002,R,82,"['comedy', 'documentation']",['US'],0,tt0328962,6.9,6948,5.927,2000
+tm71119,Delta Farce,MOVIE,2007,PG-13,90,"['action', 'comedy']",['US'],0,tt0800003,3.6,11138,8.685,2000
+tm134235,One Piece: Strong World,MOVIE,2009,PG-13,114,"['fantasy', 'animation', 'action']",['JP'],0,tt1485763,7.5,5382,25.322,2000
+tm86995,Christmas with the Kranks,MOVIE,2004,PG,99,"['comedy', 'family']",['US'],0,tt0388419,5.4,49090,13.399,2000
+tm137530,Love Happens,MOVIE,2009,PG-13,109,"['drama', 'romance']","['CA', 'GB', 'US']",0,tt4809870,5.6,32837,14.783,2000
+ts25765,Vampire Knight,SHOW,2008,TV-14,25,"['scifi', 'romance', 'animation', 'action', 'drama', 'fantasy', 'horror']",['JP'],2,tt1209393,7.3,5172,16.465,2000
+ts3666,Den-noh Coil,SHOW,2007,TV-Y7,25,"['scifi', 'animation', 'comedy', 'drama']",['JP'],1,tt1033796,7.9,863,11.511,2000
+tm36475,Kabhi Khushi Kabhie Gham,MOVIE,2001,G,210,"['drama', 'romance']",['IN'],0,tt0248126,7.4,48818,8.47,2000
+tm80059,Naruto Shippuden the Movie,MOVIE,2007,PG-13,94,"['fantasy', 'animation', 'action', 'family']",['JP'],0,tt0988982,6.7,4016,224.494,2000
+tm22636,Trailer Park Boys: The Movie,MOVIE,2006,R,95,"['comedy', 'crime']",['CA'],0,tt0425601,7.1,12831,8.687,2000
+tm30289,Jeff Dunham: Arguing with Myself,MOVIE,2006,PG-13,76,"['comedy', 'documentation']",['US'],0,tt0806102,8,3984,4.891,2000
+tm38896,From Within,MOVIE,2008,R,89,"['thriller', 'horror', 'documentation', 'war', 'european']",['US'],0,tt1063056,5.6,7585,9.543,2000
+tm29269,Jodhaa Akbar,MOVIE,2008,PG-13,213,"['romance', 'history', 'war', 'action', 'drama']",['IN'],0,tt0449994,7.5,32188,7.96,2000
+tm156001,And Then Came Lola,MOVIE,2009,PG,71,"['comedy', 'drama', 'romance']",['US'],0,tt1123894,3.9,1683,5.896,2000
+ts21664,One on One,SHOW,2001,TV-14,20,['comedy'],['US'],5,tt0284770,7,2303,5.453,2000
+tm73058,Om Shanti Om,MOVIE,2007,PG,162,"['comedy', 'drama', 'fantasy', 'romance', 'thriller', 'action']",['IN'],0,tt1024943,6.7,42597,9.639,2000
+tm76835,Jab We Met,MOVIE,2007,PG-13,138,"['comedy', 'drama', 'romance']",['IN'],0,tt1093370,7.9,51945,10.991,2000
+ts1464,The Cartel,SHOW,2008,TV-MA,44,"['action', 'crime', 'drama', 'thriller', 'comedy']",['CO'],2,tt1260520,8.1,755,208.108,2000
+tm33981,Bon Cop Bad Cop,MOVIE,2006,PG-13,116,"['crime', 'scifi', 'drama', 'thriller', 'action', 'comedy']",['CA'],0,tt0479647,6.5,61,5.868,2000
+tm80339,Naruto: Ninja Clash in the Land of Snow,MOVIE,2004,PG-13,82,"['comedy', 'action', 'animation', 'fantasy']",['JP'],0,tt0476680,6.6,6759,45.425,2000
+ts72322,The Mafia Dolls,SHOW,2009,TV-14,43,"['drama', 'action']",['CO'],2,tt1585368,6.6,284,29.715,2000
+tm165259,I Will Follow,MOVIE,2010,PG-13,76,['drama'],['US'],0,tt1624426,5.9,865,4.098,2010
+tm97544,Alpha and Omega,MOVIE,2010,PG,88,"['animation', 'romance', 'comedy', 'family']","['IN', 'CA', 'US']",0,tt1213012,5.1,14272,16.15,2010
+tm65142,One Piece: The Desert Princess and the Pirates: Adventure in Alabasta,MOVIE,2007,PG-13,90,"['drama', 'comedy', 'animation', 'action']",['JP'],0,tt1037116,6.9,1611,23.07,2000
+tm22342,Waist Deep,MOVIE,2006,R,97,"['thriller', 'drama', 'crime', 'action']",['US'],0,tt0456020,5.8,9957,10.736,2000
+tm24576,Naruto: Guardians of the Crescent Moon Kingdom,MOVIE,2006,PG-13,95,"['action', 'animation']",['JP'],0,tt1071815,6.4,3975,64.608,2000
+tm41508,First Sunday,MOVIE,2008,PG-13,96,"['comedy', 'crime', 'drama']",['US'],0,tt0486578,4.5,10834,10.605,2000
+ts74928,Einsatzgruppen: The Nazi Death Squads,SHOW,2009,TV-14,44,"['documentation', 'history', 'war', 'european']",['FR'],1,tt6953928,7.6,603,2.496,2000
+tm170873,My Suicide,MOVIE,2009,R,107,"['comedy', 'drama']",['US'],0,tt0492896,7,1936,5.485,2000
+tm150521,Accident,MOVIE,2009,R,89,['thriller'],['HK'],0,tt1202514,6.6,3284,6.595,2000
+tm177687,Naruto: Legend of the Stone of Gelel,MOVIE,2005,PG-13,96,"['fantasy', 'comedy', 'drama', 'animation', 'action']",['JP'],0,tt0791188,6.4,4297,45.717,2000
+ts98252,Dreamworks Happy Holidays from Madagascar,SHOW,2005,TV-PG,0,"['animation', 'comedy', 'family']",['US'],1,tt6929194,6.5,96,3.42,2000
+tm156575,Billu,MOVIE,2009,PG,137,"['drama', 'comedy']",['IN'],0,tt1230448,6.3,11747,7.659,2000
+ts20358,Half & Half,SHOW,2002,TV-14,21,['comedy'],['US'],4,tt0320024,7,1827,5.019,2000
+ts23319,Timmy Time,SHOW,2009,TV-Y,14,"['comedy', 'fantasy', 'animation', 'family', 'european']",['GB'],3,tt1125758,6.9,1083,17.668,2000
+tm61056,Dil Chahta Hai,MOVIE,2001,G,183,"['drama', 'comedy', 'romance']",['IN'],0,tt0292490,8.1,71167,9.318,2000
+tm138497,Trailer Park Boys: Countdown to Liquor Day,MOVIE,2009,R,101,"['comedy', 'crime']",['CA'],0,tt1337032,7.3,7451,5.588,2000
+tm93612,Bleach the Movie: Hell Verse,MOVIE,2010,PG-13,94,"['fantasy', 'animation', 'action']",['JP'],0,tt1785394,7.4,2416,45.266,2010
+ts63295,Vientos de agua,SHOW,2006,TV-MA,72,['drama'],"['ES', 'AR']",1,tt0459724,8.7,1034,2.452,2000
+tm96037,Naruto Shippuden the Movie: The Lost Tower,MOVIE,2010,PG-13,85,"['action', 'animation', 'fantasy']",['JP'],0,tt1703048,6.9,3567,104.166,2010
+tm36164,Naruto Shippuden the Movie: Bonds,MOVIE,2008,PG-13,90,"['fantasy', 'animation', 'action']",['JP'],0,tt1160524,6.8,4473,76.107,2000
+tm147494,Naruto Shippuden the Movie: The Will of Fire,MOVIE,2009,PG-13,95,"['action', 'animation', 'fantasy']",['JP'],0,tt1481363,7,3626,79.113,2000
+tm31564,Linewatch,MOVIE,2008,R,90,"['thriller', 'crime', 'drama']",['US'],0,tt1047832,5.4,2862,5.456,2000
+tm95238,The Boy Who Cried Werewolf,MOVIE,2010,G,97,"['fantasy', 'horror', 'comedy', 'family']","['US', 'CA']",0,tt1451423,5.9,3264,12.362,2010
+tm54147,Dostana,MOVIE,2008,PG-13,145,"['drama', 'comedy', 'romance']","['US', 'IN']",0,tt1185420,6.5,14944,6.172,2000
+tm30170,Don,MOVIE,2006,PG-13,178,"['thriller', 'crime', 'action', 'european']",['IN'],0,tt0461936,7.1,36836,7.261,2000
+tm34524,"One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom",MOVIE,2008,PG-13,95,"['action', 'animation', 'comedy', 'drama', 'fantasy']",['JP'],0,tt1206326,7,1189,27.125,2000
+tm34846,Bleach the Movie: Fade to Black,MOVIE,2008,PG-13,94,"['fantasy', 'drama', 'animation', 'action']",['JP'],0,tt1339302,7.2,2151,32.64,2000
+tm32885,Rang De Basanti,MOVIE,2006,PG-13,157,"['comedy', 'drama', 'history', 'crime']",['IN'],0,tt0460895,8.1,118092,8.761,2000
+ts44663,Oscar's Oasis,SHOW,2010,TV-Y,9,"['animation', 'comedy', 'european']",['FR'],1,tt2080922,7.4,572,7.759,2010
+tm82765,Swades,MOVIE,2004,G,189,"['drama', 'european']","['IN', 'US']",0,tt0367110,8.1,89085,7.152,2000
+tm144345,Kal Ho Naa Ho,MOVIE,2003,PG,186,"['drama', 'comedy', 'romance']",['IN'],0,tt0347304,7.9,68028,10.229,2000
+tm70222,Sivaji: The Boss,MOVIE,2007,PG-13,189,"['drama', 'crime', 'thriller', 'action']",['IN'],0,tt0479751,7.5,19556,5.544,2000
+tm92977,Ishqiya,MOVIE,2010,R,115,"['comedy', 'thriller', 'romance', 'drama']",['IN'],0,tt1345777,7.3,10415,5.089,2010
+ts37200,Trotro,SHOW,2004,TV-G,3,"['animation', 'family', 'european']",['FR'],2,tt1074443,6.2,120,2.886,2000
+tm98975,Guzaarish,MOVIE,2010,PG,126,"['drama', 'romance']",['IN'],0,tt1438298,7.4,18466,7.257,2010
+tm23441,Kabhi Alvida Naa Kehna,MOVIE,2006,PG,193,"['drama', 'romance']",['IN'],0,tt0449999,6,19797,8.285,2000
+tm86051,Black Friday,MOVIE,2004,R,143,"['crime', 'action', 'drama', 'history']",['IN'],0,tt0400234,8.4,20611,7.425,2000
+tm31335,Golmaal Returns,MOVIE,2008,PG,135,"['comedy', 'crime']",['IN'],0,tt1092005,5.1,7884,3.325,2000
+tm165809,Bluffmaster!,MOVIE,2005,PG,137,"['drama', 'comedy', 'romance', 'thriller', 'crime']",['IN'],0,tt0476527,6.6,6313,3.463,2000
+tm89764,Inuyasha the Movie 4: Fire on the Mystic Island,MOVIE,2004,PG-13,88,"['fantasy', 'action', 'comedy', 'animation']",['JP'],0,tt0473658,7.2,1826,37.944,2000
+ts56589,Tayo the Little Bus,SHOW,2010,TV-Y,11,"['animation', 'comedy', 'family']",['KR'],6,tt3270208,5.2,156,6.172,2010
+ts1413,Autumn's Concerto,SHOW,2009,TV-14,58,"['drama', 'romance']",['TW'],1,tt3530668,7.9,475,9.386,2000
+ts98353,DreamWorks Spooky Stories,SHOW,2009,TV-PG,26,['animation'],['US'],1,tt6958564,6.2,19,0.651,2000
+tm49405,Inuyasha the Movie: Affections Touching Across Time,MOVIE,2001,PG-13,99,"['action', 'animation', 'fantasy']",['JP'],0,tt0322645,7.2,2570,29.842,2000
+tm96168,Once Upon a Time in Mumbaai,MOVIE,2010,PG-13,132,"['thriller', 'crime', 'drama', 'romance', 'action']",['IN'],0,tt1395054,7.4,17494,4.19,2010
+tm72587,Guru,MOVIE,2007,PG-13,166,"['romance', 'documentation', 'drama', 'european']",['IN'],0,tt0499375,7.7,23541,5.319,2000
+tm88366,Main Hoon Na,MOVIE,2004,PG,179,"['drama', 'romance', 'thriller', 'action', 'comedy']",['IN'],0,tt0347473,7,35142,8.106,2000
+tm101684,Romantik Komedi,MOVIE,2010,G,110,"['romance', 'comedy']",['TR'],0,tt1587263,5.3,5060,4.185,2010
+tm38454,Jeff Dunham's Very Special Christmas Special,MOVIE,2008,PG-13,85,"['comedy', 'documentation']",['US'],0,tt1295909,7.4,3028,4.188,2000
+tm164389,Paheli,MOVIE,2005,PG-13,141,"['fantasy', 'drama', 'romance', 'comedy']",['IN'],0,tt0451850,6.3,13206,5.94,2000
+tm77863,Honeymoon Travels Pvt. Ltd.,MOVIE,2007,PG-13,118,"['comedy', 'drama', 'romance']",['IN'],0,tt0808306,6.1,2609,3.088,2000
+ts137477,Behind Enemy Lines,SHOW,2001,TV-14,49,['drama'],['US'],1,tt5170230,7.2,42,0,2000
+tm138902,Inuyasha the Movie 3: Swords of an Honorable Ruler,MOVIE,2003,PG-13,99,"['fantasy', 'thriller', 'animation', 'action']",['JP'],0,tt0396659,7.6,2206,38.412,2000
+ts4866,Fated to Love You,SHOW,2008,TV-G,67,"['drama', 'comedy', 'romance']",['TW'],1,tt1483930,7.4,461,3.878,2000
+tm149209,Kaminey,MOVIE,2009,PG-13,135,"['drama', 'crime', 'action', 'thriller']",['IN'],0,tt1274295,7.4,17136,5.741,2000
+ts34414,Nuevo Rico Nuevo Pobre,SHOW,2007,TV-MA,44,['comedy'],['CO'],1,tt1233451,7.2,203,19.697,2000
+tm147686,Kevin Hart: I'm a Grown Little Man,MOVIE,2009,R,72,"['comedy', 'documentation']",['US'],0,tt1420554,7.5,4333,7.107,2000
+tm82718,G.O.R.A.,MOVIE,2004,PG-13,127,"['scifi', 'comedy']",['TR'],0,tt0384116,8,61797,6.948,2000
+ts204466,Pecados capitales,SHOW,2002,TV-MA,43,"['comedy', 'drama', 'romance']",['CO'],1,tt0355119,8.5,190,2.625,2000
+tm106625,"LSD: Love, Sex aur Dhokha",MOVIE,2010,PG-13,108,"['drama', 'comedy', 'crime', 'romance']",['IN'],0,tt1608777,7.2,5645,3.612,2010
+ts67595,Pedro El Escamoso,SHOW,2001,TV-14,0,"['drama', 'comedy']",['CO'],1,tt0283770,7.5,303,46.411,2000
+tm29731,Chup Chup Ke,MOVIE,2006,G,165,"['comedy', 'drama', 'romance']",['IN'],0,tt0464160,6.9,10528,4.791,2000
+tm80455,Manorama Six Feet Under,MOVIE,2007,R,137,"['thriller', 'crime', 'drama']",['IN'],0,tt0920464,7.6,8043,3.637,2000
+tm103133,Karthik Calling Karthik,MOVIE,2010,PG,135,"['thriller', 'drama', 'romance']",['IN'],0,tt1373156,7.1,11944,4.449,2010
+ts29199,Monty Python's Personal Best,SHOW,2006,TV-PG,56,['comedy'],"['US', 'GB']",1,tt0795156,7.9,437,0.673,2000
+tm155761,Ajab Prem Ki Ghazab Kahani,MOVIE,2009,PG,150,"['action', 'comedy', 'romance']",['IN'],0,tt1252596,6.3,14380,5.874,2000
+tm75544,Dhan Dhana Dhan Goal,MOVIE,2007,PG,167,"['drama', 'sport', 'thriller']",['IN'],0,tt1120897,5,2603,4.743,2000
+tm93004,Yuva,MOVIE,2004,PG,161,"['action', 'drama', 'thriller']",['IN'],0,tt0382383,7.3,8878,3.804,2000
+tm78790,Namastey London,MOVIE,2007,PG,131,"['comedy', 'drama', 'romance']",['IN'],0,tt0795434,7.1,21745,6.895,2000
+tm44530,Fashion,MOVIE,2008,PG-13,167,"['romance', 'drama']",['IN'],0,tt0964516,6.9,12468,5.145,2000
+tm102848,Peepli Live,MOVIE,2010,PG,104,"['drama', 'comedy']",['IN'],0,tt1447508,7.4,12265,3.725,2010
+tm96595,Lakshya,MOVIE,2004,G,186,"['drama', 'romance', 'war', 'action']",['IN'],0,tt0323013,7.8,23076,5.649,2000
+tm97982,Do Dooni Chaar,MOVIE,2010,PG,146,"['drama', 'comedy', 'crime']",['IN'],0,tt1714832,7.5,5551,1.813,2010
+tm27484,Kismat Konnection,MOVIE,2008,G,153,"['romance', 'comedy', 'drama']",['IN'],0,tt1105733,5.3,5588,5.272,2000
+ts178360,El cartel 2 - La guerra total,SHOW,2010,TV-MA,44,"['action', 'crime', 'horror', 'thriller', 'war']",['CO'],1,tt1667724,6.8,228,0,2010
+tm237621,The Figurine (Araromire),MOVIE,2009,PG-13,122,"['horror', 'thriller']",['NG'],0,tt1542960,4.4,243,2.064,2000
+tm152724,Kurbaan,MOVIE,2009,R,161,"['thriller', 'action', 'crime', 'drama', 'romance', 'sport']",['IN'],0,tt1185442,5.7,5121,2.969,2000
+tm105278,Inuyasha the Movie 2: The Castle Beyond the Looking Glass,MOVIE,2002,PG-13,100,"['animation', 'fantasy', 'action', 'romance', 'comedy']",['JP'],0,tt0366621,7.3,2127,31.534,2000
+tm141117,Chalte Chalte,MOVIE,2003,PG-13,175,"['comedy', 'drama', 'romance']",['IN'],0,tt0346723,6.5,15379,9.044,2000
+tm35652,Mumbai Meri Jaan,MOVIE,2008,PG-13,119,['drama'],['IN'],0,tt1266583,7.7,6309,2.442,2000
+tm49865,Aamir,MOVIE,2008,NC-17,99,"['thriller', 'action', 'crime', 'drama']",['IN'],0,tt1241195,7.6,11241,4.538,2000
+ts82592,The Truth,SHOW,2008,TV-14,44,"['drama', 'thriller']",['SG'],1,tt9233832,0,0,0.6,2000
+tm33067,Race,MOVIE,2008,PG-13,161,"['drama', 'action', 'thriller', 'crime', 'comedy']",['IN'],0,tt1017456,6.9,63,5.615,2000
+tm103732,Udaan,MOVIE,2010,R,138,['drama'],['IN'],0,tt1639426,8.1,44556,6.118,2010
+tm98475,We Are Family,MOVIE,2010,PG,115,"['drama', 'comedy', 'family']",['IN'],0,tt1428459,5.6,3140,1.721,2010
+tm101609,Raajneeti,MOVIE,2010,PG,167,"['drama', 'thriller', 'crime']",['IN'],0,tt1291465,7.1,17555,4.779,2010
+ts98316,Edge of the Universe,SHOW,2002,TV-G,49,['documentation'],['GB'],1,tt6951568,7.2,206,0.6,2000
+tm134407,Dev.D,MOVIE,2009,PG-13,144,"['drama', 'romance', 'comedy']",['IN'],0,tt1327035,7.9,30389,5.614,2000
+tm144263,Aagey Se Right,MOVIE,2009,G,117,"['comedy', 'crime', 'drama']",['IN'],0,tt1479667,5.2,406,1.87,2000
+ts12444,The Fierce Wife,SHOW,2010,TV-MA,59,['drama'],['TW'],1,tt4304720,6.8,90,4.571,2010
+tm91323,I Hate Luv Storys,MOVIE,2010,PG,129,"['drama', 'romance', 'comedy']",['IN'],0,tt1667838,5.6,7994,6.08,2010
+tm52176,Welcome to Sajjanpur,MOVIE,2008,PG,134,"['comedy', 'drama']",['IN'],0,tt1221139,6.9,3239,1.439,2000
+ts95855,Wedding Planner,SHOW,2002,TV-14,39,['drama'],[],1,tt7885290,0,0,0,2000
+tm178555,I Am Kalam,MOVIE,2010,G,88,"['comedy', 'drama', 'family']",['IN'],0,tt1805263,8,4166,3.187,2010
+tm154375,Main Aurr Mrs Khanna,MOVIE,2009,PG,115,"['drama', 'comedy', 'romance']",['IN'],0,tt1174041,3.5,3148,3.923,2000
+tm95507,Chance Pe Dance,MOVIE,2010,G,121,"['drama', 'music', 'romance', 'comedy']",['IN'],0,tt1392744,4.8,2968,2.548,2010
+tm84316,Shootout at Lokhandwala,MOVIE,2007,PG-13,145,"['crime', 'action', 'history']",['IN'],0,tt0811066,7.1,10139,5.821,2000
+ts39604,The Hospital,SHOW,2006,TV-14,48,['drama'],['TW'],1,tt2823414,7.4,40,23.073,2000
+tm352243,Interview with a Serial Killer,MOVIE,2008,PG-13,44,"['documentation', 'crime']",['US'],0,tt6978288,5.9,595,1.543,2000
+ts160526,Khawatir,SHOW,2005,TV-14,20,['reality'],[],11,tt3062514,9.6,3046,0,2000
+tm130999,Dhoondte Reh Jaaoge,MOVIE,2009,PG,135,"['comedy', 'drama']",['IN'],0,tt1391544,5.6,812,1.782,2000
+ts23797,Black & White,SHOW,2009,TV-14,37,"['action', 'comedy', 'sport', 'crime']",['TW'],3,tt1508870,7.6,302,9.613,2000
+tm85369,Hattrick,MOVIE,2007,PG,110,"['romance', 'drama', 'comedy', 'sport']",['IN'],0,tt0979891,4.3,493,1.291,2000
+tm143510,Harishchandrachi Factory,MOVIE,2009,G,96,"['comedy', 'drama']",['IN'],0,tt1524539,8.4,2464,1.762,2000
+tm148041,What's Your Raashee?,MOVIE,2009,PG-13,192,"['comedy', 'drama', 'romance']",['IN'],0,tt1242530,4.8,2718,2.94,2000
+ts70843,The Prince Who Turns into a Frog,SHOW,2005,TV-14,44,"['drama', 'romance', 'comedy']",['TW'],1,tt1454440,6.8,128,1.448,2000
+ts13411,Cocaine,SHOW,2005,TV-14,44,"['documentation', 'european']",['US'],1,tt0907286,7.1,60,0.84,2000
+ts8614,Breakout,SHOW,2010,TV-14,44,"['drama', 'action']",['SG'],1,tt7131684,6.7,7,3.557,2010
+ts4924,At Dolphin Bay,SHOW,2003,TV-14,59,"['drama', 'comedy', 'romance']",['TW'],1,tt8612066,6.9,39,1.908,2000
+ts126804,My MVP Valentine,SHOW,2002,TV-PG,69,['drama'],[],1,tt6286390,6.5,27,0,2000
+tm28024,A Very Special Love,MOVIE,2008,PG,105,"['romance', 'drama', 'comedy']",['PH'],0,tt1243381,6.5,388,3.295,2000
+tm481594,Bheem vs Aliens,MOVIE,2010,G,69,['animation'],[],0,tt6442436,7.7,35,0,2010
+ts29581,Unriddle,SHOW,2010,TV-14,44,"['thriller', 'action', 'drama']",['SG'],2,tt12229764,8,25,1.4,2010
+tm1077037,Chhota Bheem & Krishna: Pataliputra- City of the Dead,MOVIE,2010,G,65,['animation'],['IN'],0,tt6543110,0,0,0,2010
+tm598375,Chhota Bheem Aur Krishna,MOVIE,2008,G,69,"['animation', 'fantasy']",['IN'],0,tt2827516,6.4,310,1.229,2000
+ts82583,The Family Court,SHOW,2010,TV-MA,45,['drama'],['SG'],1,tt9184102,0,0,0.843,2010
+ts56595,Cocomong,SHOW,2008,TV-Y,13,['animation'],[],4,tt9892608,5.6,11,0.605,2000
+ts8175,Call the Midwife,SHOW,2012,TV-PG,56,"['drama', 'history', 'european']",['GB'],11,tt1983079,8.5,25562,24.955,2010
+tm170758,Hop,MOVIE,2011,PG,95,"['comedy', 'fantasy', 'animation', 'family']",['US'],0,tt1411704,5.4,33734,12.008,2010
+tm166064,"Crazy, Stupid, Love.",MOVIE,2011,PG-13,118,"['romance', 'comedy', 'drama']",['US'],0,tt1570728,7.4,507878,30.363,2010
+ts20564,New Girl,SHOW,2011,TV-14,21,"['comedy', 'romance']",['US'],7,tt1826940,7.7,216209,65.381,2010
+ts278,Black Mirror,SHOW,2011,TV-MA,59,"['scifi', 'thriller', 'drama', 'european']",['GB'],5,tt2085059,8.8,515577,74.102,2010
+tm170442,Margin Call,MOVIE,2011,R,107,"['thriller', 'drama']",['US'],0,tt1615147,7.1,125883,17.311,2010
+tm41792,Django Unchained,MOVIE,2012,R,165,"['western', 'drama']",['US'],0,tt1853728,8.4,1472668,56.588,2010
+ts21580,Longmire,SHOW,2012,TV-14,53,"['western', 'action', 'crime', 'drama']",['US'],6,tt1836037,8.3,34362,32.776,2010
+tm50018,Looper,MOVIE,2012,R,119,"['thriller', 'scifi', 'drama', 'crime', 'action']",['US'],0,tt1276104,7.4,566791,48.347,2010
+ts20660,Shameless,SHOW,2011,TV-MA,54,"['drama', 'comedy']",['US'],11,tt1586680,8.6,230243,175.426,2010
+ts21806,Happy Endings,SHOW,2011,TV-14,21,"['comedy', 'romance']",['US'],3,tt2311579,7.8,37778,19.134,2010
+tm60292,Argo,MOVIE,2012,R,120,"['drama', 'thriller']","['US', 'GB']",0,tt1024648,7.7,600392,17.419,2010
+ts27680,Last Tango in Halifax,SHOW,2012,TV-14,59,"['comedy', 'drama', 'romance', 'european']",['GB'],5,tt2216156,8.3,6844,5.554,2010
+tm164877,Midnight in Paris,MOVIE,2011,PG-13,94,"['fantasy', 'romance', 'comedy']","['US', 'ES']",0,tt1605783,7.7,413541,26.775,2010
+ts21599,Ink Master,SHOW,2012,TV-14,42,['reality'],['US'],13,tt1865740,7.4,3874,23.186,2010
+ts33338,Top Boy,SHOW,2011,TV-MA,48,"['drama', 'thriller', 'crime', 'european']",['GB'],2,tt1830379,8.4,22420,18.036,2010
+tm166548,Warrior,MOVIE,2011,PG-13,140,"['drama', 'action', 'sport']",['US'],0,tt1291584,8.2,463276,74.092,2010
+ts32835,Hunter x Hunter,SHOW,2011,TV-14,23,"['drama', 'action', 'comedy', 'crime', 'animation', 'documentation', 'family', 'fantasy']",['JP'],3,tt2098220,9,87857,117.924,2010
+tm32982,Les Misérables,MOVIE,2012,PG-13,157,"['drama', 'romance', 'history', 'war']","['GB', 'US']",0,tt1707386,7.5,325132,18,2010
+ts17598,Arrow,SHOW,2012,TV-14,42,"['action', 'crime', 'drama', 'scifi']",['US'],8,tt2193021,7.5,425716,125.061,2010
+tm161802,The Girl with the Dragon Tattoo,MOVIE,2011,R,158,"['crime', 'thriller', 'drama']","['NO', 'SE', 'US']",0,tt1568346,7.8,454917,23.091,2010
+tm158304,Contagion,MOVIE,2011,PG-13,106,"['thriller', 'scifi', 'action', 'drama']","['US', 'AE']",0,tt1598778,6.8,300074,26.205,2010
+tm72140,Battleship,MOVIE,2012,PG-13,131,"['scifi', 'thriller', 'action', 'documentation']",['US'],0,tt1440129,5.8,246008,44.046,2010
+tm37153,Killing Them Softly,MOVIE,2012,R,104,"['crime', 'thriller', 'drama']",['US'],0,tt1767297,6.2,141289,15.681,2010
+tm160433,Just Go with It,MOVIE,2011,PG-13,117,"['romance', 'comedy']",['US'],0,tt1564367,6.4,239367,89.01,2010
+tm39896,Dark Shadows,MOVIE,2012,PG-13,113,"['comedy', 'fantasy', 'horror']",['US'],0,tt1077368,6.2,262998,53.366,2010
+tm178201,Sherlock Holmes: A Game of Shadows,MOVIE,2011,PG-13,129,"['crime', 'thriller', 'action']","['US', 'GB']",0,tt1515091,7.4,446531,47.884,2010
+tm59428,Silver Linings Playbook,MOVIE,2012,R,122,"['drama', 'romance', 'comedy']",['US'],0,tt1045658,7.7,697481,26.254,2010
+ts20457,The Legend of Korra,SHOW,2012,TV-Y7,23,"['action', 'scifi', 'comedy', 'drama', 'family', 'fantasy', 'animation']",['US'],4,tt1695360,8.4,117464,63.789,2010
+ts20429,Sword Art Online,SHOW,2012,TV-MA,23,"['scifi', 'action', 'animation', 'drama', 'western', 'comedy', 'fantasy', 'romance', 'thriller']",['JP'],4,tt2250192,7.6,43727,73.783,2010
+tm176356,Sucker Punch,MOVIE,2011,PG-13,110,"['fantasy', 'thriller', 'action']","['US', 'CA']",0,tt0978764,6,241111,73.193,2010
+ts6506,The Borgias,SHOW,2011,TV-MA,51,"['drama', 'history', 'romance', 'crime']","['CA', 'HU', 'US']",3,tt1582457,7.9,50556,23.185,2010
+ts20458,Ninjago: Masters of Spinjitzu,SHOW,2012,TV-Y7,17,"['scifi', 'comedy', 'family', 'fantasy', 'animation', 'action', 'european']","['DK', 'US']",15,tt1871731,7.2,4519,60.536,2010
+tm74848,Total Recall,MOVIE,2012,PG-13,120,"['thriller', 'scifi', 'crime', 'action']","['CA', 'US']",0,tt1386703,6.2,252051,76.648,2010
+ts34087,Puella Magi Madoka Magica,SHOW,2011,TV-14,24,"['scifi', 'thriller', 'animation', 'drama', 'fantasy']",['JP'],1,tt1773185,8.3,9055,17.086,2010
+tm68272,Project X,MOVIE,2012,R,88,['comedy'],['US'],0,tt1636826,6.6,204959,168.423,2010
+tm60844,Berserk: The Golden Age Arc I - The Egg of the King,MOVIE,2012,NC-17,76,"['fantasy', 'war', 'animation', 'action', 'drama', 'horror']",['JP'],0,tt2311238,7.5,12278,15.761,2010
+tm160132,Soul Surfer,MOVIE,2011,PG,112,"['drama', 'family', 'sport']",['US'],0,tt1596346,7,49101,44.641,2010
+ts27468,Transformers: Rescue Bots,SHOW,2012,TV-Y7,22,"['action', 'scifi', 'comedy', 'family', 'animation']",['US'],4,tt2139371,6.4,915,18.838,2010
+tm172716,Final Destination 5,MOVIE,2011,R,92,"['horror', 'thriller', 'action', 'fantasy', 'documentation', 'european']",['US'],0,tt1622979,5.9,114505,63.749,2010
+tm278681,Puss in Boots,MOVIE,2011,PG,79,"['comedy', 'animation', 'family', 'fantasy', 'action']",['US'],0,tt0448694,6.6,156144,41.19,2010
+tm40319,Savages,MOVIE,2012,R,131,"['thriller', 'action', 'crime', 'drama']",['US'],0,tt1615065,6.4,129199,16.038,2010
+ts20556,Teen Mom 2,SHOW,2011,TV-14,41,"['reality', 'romance', 'documentation', 'comedy']",['US'],11,tt1821220,4.5,28,24.248,2010
+tm173624,Hall Pass,MOVIE,2011,R,105,"['romance', 'comedy']",['US'],0,tt0480687,5.9,125098,27.533,2010
+ts9794,Comedians in Cars Getting Coffee,SHOW,2012,TV-14,20,"['comedy', 'family', 'animation']",['US'],11,tt2314952,8,12363,26.158,2010
+ts20500,Lilyhammer,SHOW,2012,TV-MA,45,"['crime', 'comedy', 'drama']",['NO'],3,tt1958961,7.9,29196,15.935,2010
+tm62210,Rurouni Kenshin Part I: Origins,MOVIE,2012,PG-13,134,"['drama', 'war', 'action', 'history']",['JP'],0,tt1979319,7.4,25793,26.614,2010
+tm167232,Unknown,MOVIE,2011,PG-13,113,"['action', 'thriller', 'european']","['GB', 'FR', 'DE']",0,tt1401152,6.8,259696,61.423,2010
+ts34151,TIGER & BUNNY,SHOW,2011,TV-14,26,"['scifi', 'action', 'animation', 'comedy', 'crime']",['JP'],2,tt2061527,7.3,998,14.385,2010
+ts11151,Fate/Zero,SHOW,2011,TV-MA,25,"['scifi', 'action', 'animation', 'drama', 'fantasy', 'thriller']",['JP'],2,tt2051178,8.2,12568,40.567,2010
+tm173195,The Rite,MOVIE,2011,PG-13,114,"['drama', 'thriller', 'horror']","['US', 'HU', 'IT']",0,tt1161864,6,96915,24.872,2010
+ts9246,Blue Exorcist,SHOW,2011,TV-14,24,"['scifi', 'horror', 'family', 'animation', 'action', 'drama', 'fantasy']",['JP'],2,tt1799631,7.5,12741,44.755,2010
+ts19779,Barbie: Life in the Dreamhouse,SHOW,2012,TV-Y,6,"['animation', 'comedy', 'family']",['US'],7,tt2644032,7.3,1806,18.766,2010
+tm175346,Mean Girls 2,MOVIE,2011,PG-13,96,['comedy'],['US'],0,tt1679235,4.1,23287,39.834,2010
+tm160371,A Very Harold & Kumar Christmas,MOVIE,2011,R,108,"['comedy', 'fantasy', 'romance']",['US'],0,tt1268799,6.2,69241,16.887,2010
+ts7708,anohana: The Flower We Saw That Day,SHOW,2011,TV-PG,23,"['drama', 'fantasy', 'romance', 'animation']",['JP'],1,tt1913273,8.2,12682,27.728,2010
+ts27586,Magi,SHOW,2012,TV-14,24,"['scifi', 'action', 'comedy', 'animation', 'fantasy']",['JP'],3,tt2425098,7.8,3899,20.767,2010
+ts18551,Cuckoo,SHOW,2012,TV-14,27,"['comedy', 'drama', 'european']",['GB'],5,tt2329333,5.9,20,19.717,2010
+tm174256,Red Riding Hood,MOVIE,2011,PG-13,100,"['fantasy', 'thriller', 'horror', 'drama', 'romance']","['CA', 'US']",0,tt1486185,5.4,111483,23.463,2010
+ts34740,My Babysitter's a Vampire,SHOW,2011,TV-PG,22,"['scifi', 'fantasy', 'horror', 'action', 'comedy']","['US', 'CA']",2,tt1727434,6.9,4367,19.118,2010
+ts22249,Kuroko's Basketball,SHOW,2012,TV-14,24,"['animation', 'comedy', 'sport']",['JP'],3,tt2348803,8.3,8052,51.824,2010
+tm165995,New Year's Eve,MOVIE,2011,PG-13,113,"['comedy', 'romance', 'documentation']",['US'],0,tt1598822,5.6,85658,24.531,2010
+tm168921,The Smurfs,MOVIE,2011,PG,103,"['fantasy', 'comedy', 'family', 'animation']",['US'],0,tt0472181,5.4,89316,40.268,2010
+tm178323,Jack and Jill,MOVIE,2011,PG,91,"['comedy', 'horror']",['US'],0,tt0810913,3.3,83727,43.997,2010
+tm106278,Everything Must Go,MOVIE,2011,R,97,"['comedy', 'drama']",['US'],0,tt1531663,6.4,50431,7.287,2010
+ts36647,Rita,SHOW,2012,TV-MA,40,"['comedy', 'drama', 'european']",['DK'],5,tt1973692,8.1,8718,13.801,2010
+ts34921,Wolverine,SHOW,2011,TV-14,24,"['action', 'scifi', 'animation']",['JP'],1,tt1847521,6.2,1458,11.084,2010
+tm59590,One Piece Film: Z,MOVIE,2012,PG-13,108,"['action', 'animation', 'fantasy']",['JP'],0,tt2375379,7.8,7002,38.397,2010
+ts35426,LEGO City,SHOW,2011,TV-G,4,"['animation', 'european']",['GB'],3,tt7530250,5,37,3.268,2010
+tm174683,Arthur Christmas,MOVIE,2011,PG,97,"['drama', 'animation', 'family', 'comedy', 'fantasy']","['GB', 'US']",0,tt1430607,7.1,58296,15.795,2010
+ts27835,MeatEater,SHOW,2012,TV-14,22,['documentation'],['US'],10,tt2169245,7.5,1462,7.08,2010
+ts45996,Outback Truckers,SHOW,2012,TV-14,44,"['reality', 'documentation']",['AU'],9,tt5632186,7.4,264,14.65,2010
+ts55532,LEGO Friends,SHOW,2012,TV-Y,16,"['animation', 'european']",['US'],5,tt9148446,7.6,16,4.054,2010
+tm69386,Quartet,MOVIE,2012,PG-13,98,"['romance', 'comedy', 'drama', 'music']",['GB'],0,tt1441951,6.8,20194,7.473,2010
+tm38064,Berserk: The Golden Age Arc II - The Battle for Doldrey,MOVIE,2012,R,80,"['fantasy', 'drama', 'horror', 'animation', 'action']",['JP'],0,tt2358911,7.7,10257,13.833,2010
+ts34737,La Reina del Sur,SHOW,2011,TV-MA,42,"['drama', 'action', 'crime', 'thriller']",['MX'],2,tt1704637,8,2445,99.071,2010
+ts21081,Pablo Escobar: The Drug Lord,SHOW,2012,TV-14,44,"['crime', 'drama', 'history', 'thriller']",['CO'],1,tt2187850,8.4,4923,314.603,2010
+tm28171,Bill Burr: You People Are All The Same,MOVIE,2012,R,68,['comedy'],['US'],0,tt2290153,8.2,7370,7.25,2010
+tm161904,Bully,MOVIE,2011,PG-13,92,"['drama', 'documentation']",['US'],0,tt1682181,7.4,10266,8.112,2010
+tm160361,A Princess for Christmas,MOVIE,2011,PG,89,"['comedy', 'family', 'romance', 'drama']",['US'],0,tt1083448,6.3,8222,24.928,2010
+tm34331,Middle of Nowhere,MOVIE,2012,R,101,['drama'],['US'],0,tt1211890,6.5,1818,3.689,2010
+tm182125,Zindagi Na Milegi Dobara,MOVIE,2011,PG,166,"['comedy', 'drama']",['IN'],0,tt1562872,8.1,75801,9.707,2010
+tm183547,Escape from Planet Earth,MOVIE,2012,PG,89,"['comedy', 'family', 'scifi', 'animation']","['CA', 'US']",0,tt0765446,5.8,25639,20.273,2010
+tm174190,Undefeated,MOVIE,2011,PG-13,113,"['documentation', 'sport']",['US'],0,tt1860355,7.7,7051,8.21,2010
+ts81858,Larva,SHOW,2011,TV-G,2,"['comedy', 'family', 'animation', 'drama', 'horror', 'thriller']",['KR'],5,tt6966158,7.1,582,16.828,2010
+ts158608,The Ultimate Braai Master,SHOW,2012,TV-PG,45,['reality'],['ZA'],4,tt3264864,8.2,31,0.626,2010
+ts215037,Minecraft: Story Mode,SHOW,2011,TV-PG,62,[],['US'],1,tt10498322,5.5,300,0,2010
+tm68436,Barfi!,MOVIE,2012,G,151,"['drama', 'comedy', 'romance']",['IN'],0,tt2082197,8.1,80643,9.311,2010
+ts39093,EastSiders,SHOW,2012,TV-MA,22,"['drama', 'comedy']",['US'],4,tt2558816,6.8,2723,12.763,2010
+ts26776,Smile PreCure!,SHOW,2012,TV-Y7,22,"['comedy', 'action', 'scifi', 'family', 'fantasy', 'animation']",['JP'],2,tt2230557,6.1,388,10.899,2010
+ts33349,Robocar Poli,SHOW,2011,TV-Y,14,"['family', 'fantasy', 'animation', 'comedy']",['KR'],4,tt4763642,5.8,125,15.113,2010
+tm31739,Joan Rivers: Don't Start with Me,MOVIE,2012,R,68,['comedy'],['US'],0,tt2519318,6.6,408,2.277,2010
+tm177044,Naruto Shippuden the Movie: Blood Prison,MOVIE,2011,PG-13,108,"['horror', 'thriller', 'animation', 'action', 'fantasy', 'comedy']",['JP'],0,tt1999167,7.1,5021,122.666,2010
+ts191698,Little Baby Bum,SHOW,2011,TV-Y,5,"['animation', 'family', 'music']",['GB'],4,tt10051854,6.4,94,2.728,2010
+tm54780,Tiger & Bunny: The Beginning,MOVIE,2012,PG,88,"['scifi', 'animation', 'action']",['JP'],0,tt2507174,6.7,216,3.619,2010
+tm177958,Pyaar Ka Punchnama,MOVIE,2011,PG-13,149,"['romance', 'comedy', 'drama', 'european']",['IN'],0,tt1926313,7.7,21204,5.152,2010
+tm40860,Big Time Movie,MOVIE,2012,G,65,"['comedy', 'family', 'music']",['US'],0,tt2163203,6.1,1936,11.432,2010
+ts19165,The American Bible Challenge,SHOW,2012,TV-G,43,['family'],['US'],3,tt2246424,6.4,125,0.922,2010
+ts58528,Inside West Coast Customs,SHOW,2011,TV-PG,47,['reality'],['US'],8,tt8358972,7.4,42,2.189,2010
+tm37175,Jeff Dunham: Minding the Monsters,MOVIE,2012,PG-13,80,['comedy'],['US'],0,tt2461736,7,1401,3.463,2010
+tm178106,Chillar Party,MOVIE,2011,G,140,"['drama', 'comedy', 'family']",['IN'],0,tt1841542,7.5,7686,4.453,2010
+tm74031,Kyaa Super Kool Hain Hum,MOVIE,2012,R,137,"['drama', 'comedy']",['IN'],0,tt2027138,5,3885,3.402,2010
+ts27875,Masha's tales,SHOW,2012,TV-Y,5,"['animation', 'family']",['RU'],2,tt3840498,6.4,89,6.158,2010
+ts6879,El Reemplazante,SHOW,2012,TV-MA,45,['drama'],['CL'],2,tt2488050,8.5,755,7.665,2010
+tm59289,Rowdy Rathore,MOVIE,2012,PG-13,143,"['crime', 'action', 'comedy']",['IN'],0,tt2077833,5.9,22243,6.366,2010
+tm47171,OMG: Oh My God!,MOVIE,2012,G,125,"['fantasy', 'drama', 'comedy']",['IN'],0,tt2283748,8.1,57449,7.489,2010
+tm65765,6 Bullets,MOVIE,2012,R,115,"['thriller', 'drama', 'action', 'crime']",['US'],0,tt1975249,6,14898,25.607,2010
+ts39112,Justin Time,SHOW,2011,TV-Y,15,"['action', 'animation', 'family', 'comedy']",['CA'],3,tt1759210,6,16,3.382,2010
+ts60663,The In-Laws,SHOW,2011,TV-14,44,"['family', 'drama']",['SG'],1,tt12199688,0,0,1.492,2010
+tm180532,Shaitan,MOVIE,2011,PG-13,126,"['action', 'crime', 'thriller', 'drama']",['IN'],0,tt1836912,7.3,8414,2.735,2010
+tm35700,Paan Singh Tomar,MOVIE,2012,PG,135,"['drama', 'sport', 'thriller', 'action', 'crime']",['IN'],0,tt1620933,8.2,35888,5.204,2010
+tm172883,Game,MOVIE,2011,PG,135,"['thriller', 'drama', 'action', 'crime', 'european']",['IN'],0,tt1772872,5.2,2316,3.996,2010
+tm164090,Lavell Crawford: Can a Brother Get Some Love?,MOVIE,2011,NC-17,90,"['comedy', 'documentation']",['US'],0,tt2084872,6.9,230,2.601,2010
+tm59372,Arjun: The Warrior Prince,MOVIE,2012,G,96,"['animation', 'action', 'drama']",['IN'],0,tt3758104,6.7,14,3.895,2010
+tm39606,Tere Naal Love Ho Gaya,MOVIE,2012,PG,126,"['romance', 'drama', 'comedy']",['IN'],0,tt2130242,5.8,4359,2.419,2010
+tm53395,FRED 3: Camp Fred,MOVIE,2012,PG,81,"['comedy', 'family']",['US'],0,tt2395219,2,2625,6.233,2010
+tm66725,Kalakalappu,MOVIE,2012,G,149,['comedy'],['IN'],0,tt2262126,6.9,1342,2.858,2010
+ts167724,Meet the Adebanjos,SHOW,2012,TV-PG,25,['comedy'],['GB'],3,tt2344781,7.6,76,0.857,2010
+tm48579,Katt Williams: Kattpacalypse,MOVIE,2012,R,60,['comedy'],['US'],0,tt2370686,5.5,635,2.392,2010
+tm159593,No One Killed Jessica,MOVIE,2011,PG-13,136,"['crime', 'drama', 'thriller']",['IN'],0,tt1734110,7.2,11665,4.115,2010
+tm34746,Luv Shuv Tey Chicken Khurana,MOVIE,2012,PG,140,['comedy'],['IN'],0,tt2186933,6.6,3905,2.236,2010
+tm167241,Ragini MMS,MOVIE,2011,PG-13,93,"['horror', 'drama', 'thriller']",['IN'],0,tt1890513,5.1,2617,4.18,2010
+ts41114,The Oath,SHOW,2011,TV-14,44,['drama'],['SG'],1,tt7131686,7.9,9,1.418,2010
+tm33601,Tita Rahiba,MOVIE,2012,G,104,"['comedy', 'drama']",['XX'],0,tt2350736,5.2,700,2.227,2010
+tm48239,Ek Main Aur Ekk Tu,MOVIE,2012,PG,110,"['drama', 'comedy', 'romance']",['IN'],0,tt1703958,5.8,6754,3.478,2010
+tm166810,Michael,MOVIE,2011,PG-13,97,"['thriller', 'drama']",['IN'],0,tt1754202,5.3,167,1.322,2010
+tm172353,Bbuddah Hoga Terra Baap,MOVIE,2011,PG-13,118,"['thriller', 'action', 'comedy', 'crime']",['IN'],0,tt1869296,5.6,2884,5.686,2010
+tm169053,Shor in the City,MOVIE,2011,PG,107,"['drama', 'crime']",['IN'],0,tt1916728,7.2,3708,2.081,2010
+tm166740,Chhota Bheem & Krishna in Mayanagari,MOVIE,2011,G,66,"['animation', 'action', 'fantasy']",['IN'],0,tt16235600,9,5,0.963,2010
+tm34142,Department,MOVIE,2012,R,141,"['thriller', 'action', 'crime']",['IN'],0,tt2186731,3.2,1049,3.184,2010
+tm38331,The Mistress,MOVIE,2012,PG-13,125,"['romance', 'drama']",['PH'],0,tt2389344,6.3,359,3.44,2010
+ts32460,Inborn Pair,SHOW,2011,TV-14,43,"['drama', 'comedy']",['TW'],1,tt6357282,7.1,108,9.281,2010
+tm44615,Ferrari Ki Sawaari,MOVIE,2012,G,140,"['comedy', 'family', 'sport', 'drama']",['IN'],0,tt2122340,6.4,5411,4.247,2010
+tm182026,Zokkomon,MOVIE,2011,PG,109,"['scifi', 'fantasy', 'action', 'family']",['IN'],0,tt1605790,3.9,407,1.48,2010
+ts32561,Office Girls,SHOW,2011,TV-14,46,"['drama', 'comedy', 'romance']",['TW'],1,tt4381290,6.9,140,4.876,2010
+tm42306,Aiyyaa,MOVIE,2012,G,146,"['comedy', 'romance']",['IN'],0,tt2255934,4.3,1871,2.265,2010
+tm53360,Blood Money,MOVIE,2012,PG,110,"['drama', 'thriller', 'action', 'crime']",['IN'],0,tt2246595,5.1,1533,29.476,2010
+ts69208,"Love, Now",SHOW,2012,TV-Y,45,"['drama', 'comedy']",['TW'],1,tt6273116,7.6,116,1.96,2010
+tm339197,Chota Bheem Aur Ganesh in the Amazing Odyssey,MOVIE,2012,G,65,['animation'],['IN'],0,tt6356352,7.8,12,0.893,2010
+ts99814,Masameer,SHOW,2011,TV-MA,0,"['comedy', 'animation']",['SA'],1,tt6298258,8.2,677,0,2010
+tm200838,Chhota Bheem In Dholakpur to Kathmandu,MOVIE,2012,G,70,['animation'],['XX'],0,tt6442774,7.8,41,0.704,2010
+tm481620,The Rise of Kirmada,MOVIE,2012,G,68,['animation'],['IN'],0,tt6543070,8,53,1.245,2010
+ts44064,Drunken to Love You,SHOW,2011,TV-14,46,"['comedy', 'drama', 'romance']",['TW'],1,tt2661520,6.5,114,3.342,2010
+tm1077038,Chhota Bheem: Journey to Petra,MOVIE,2011,G,67,['animation'],['IN'],0,tt6543194,0,0,0,2010
+tm481509,Chhota Bheem Master of Shaolin,MOVIE,2011,G,75,['animation'],[],0,tt6442670,6.3,112,0,2010
+ts39465,Yours Fatefully,SHOW,2012,TV-14,44,"['drama', 'comedy', 'romance']",['SG'],1,tt7131690,6.8,14,1.4,2010
+tm235979,My Friend Pinto,MOVIE,2011,PG,115,"['comedy', 'drama', 'crime']",['IN'],0,tt1512220,5.3,391,1.004,2010
+ts37864,The Glamorous Imperial Concubine,SHOW,2011,TV-PG,47,"['drama', 'romance', 'history']",['CN'],1,tt2272555,7,142,1.355,2010
+ts20837,Outlander,SHOW,2014,TV-MA,60,"['scifi', 'drama', 'fantasy', 'romance']",['US'],6,tt3006802,8.4,152435,238.679,2010
+ts20110,Peaky Blinders,SHOW,2013,TV-MA,58,"['drama', 'crime', 'european']",['GB'],6,tt2442560,8.8,485506,971.727,2010
+ts20682,Attack on Titan,SHOW,2013,TV-MA,24,"['scifi', 'action', 'drama', 'fantasy', 'horror', 'animation']",['JP'],4,tt2560140,9,325381,139.388,2010
+ts1639,The Blacklist,SHOW,2013,TV-14,43,"['drama', 'crime', 'thriller']",['US'],9,tt2741602,8,238138,279.921,2010
+ts20351,Married at First Sight,SHOW,2014,TV-PG,64,"['reality', 'european']",['US'],14,tt3868860,6.1,1975,31.913,2010
+tm140389,Paddington,MOVIE,2014,PG,96,"['comedy', 'animation', 'family', 'fantasy', 'european']","['FR', 'GB', 'US']",0,tt1109624,7.2,111092,34.655,2010
+ts11188,The Flash,SHOW,2014,TV-14,42,"['scifi', 'drama', 'action']",['US'],8,tt3107288,7.6,336888,751.315,2010
+tm151663,Nightcrawler,MOVIE,2014,R,118,"['crime', 'thriller', 'drama']",['US'],0,tt2872718,7.8,523686,54.186,2010
+ts20292,Gotham,SHOW,2014,TV-14,43,"['scifi', 'action', 'crime', 'drama', 'thriller']",['US'],5,tt3749900,7.8,226081,170.642,2010
+ts16045,Are You The One?,SHOW,2014,TV-14,41,['reality'],['US'],8,tt3484274,6.5,2450,15.818,2010
+tm169422,Her,MOVIE,2013,R,126,"['drama', 'romance', 'scifi']",['US'],0,tt1798709,8,586679,29.436,2010
+tm169719,42,MOVIE,2013,PG-13,128,"['drama', 'sport']",['US'],0,tt0453562,7.5,93314,13.936,2010
+tm140877,The Imitation Game,MOVIE,2014,PG-13,113,"['thriller', 'drama', 'war']","['US', 'GB']",0,tt2084970,8,748654,46.71,2010
+tm171042,The Call,MOVIE,2013,R,94,"['crime', 'thriller', 'drama', 'horror', 'european']",['US'],0,tt1911644,6.7,120475,36.703,2010
+ts8146,The 100,SHOW,2014,TV-14,42,"['drama', 'action', 'scifi']",['US'],7,tt2661044,7.6,242221,224.641,2010
+tm148147,Big Eyes,MOVIE,2014,PG-13,106,"['drama', 'documentation', 'crime', 'romance']","['CA', 'US']",0,tt1126590,7.2,51,12.271,2010
+ts21374,How to Get Away with Murder,SHOW,2014,TV-14,43,"['drama', 'thriller', 'crime']",['US'],6,tt3205802,8.1,146712,59.834,2010
+tm183523,Oldboy,MOVIE,2013,R,104,"['thriller', 'action', 'drama']",['US'],0,tt1321511,5.7,75015,18.58,2010
+tm176864,Rush,MOVIE,2013,R,123,"['drama', 'action', 'sport', 'european']","['US', 'DE', 'GB']",0,tt1979320,8.1,465254,34.763,2010
+ts20248,Reign,SHOW,2013,TV-14,42,"['drama', 'fantasy']",['US'],4,tt2710394,7.5,47751,48.886,2010
+tm134967,How to Train Your Dragon 2,MOVIE,2014,PG,102,"['fantasy', 'comedy', 'family', 'animation', 'action']",['US'],0,tt1646971,7.8,327565,68.926,2010
+tm143227,Begin Again,MOVIE,2013,R,104,"['comedy', 'music', 'romance', 'drama']",['US'],0,tt1980929,7.4,154049,17.267,2010
+tm160621,The Conjuring,MOVIE,2013,R,107,"['thriller', 'horror']",['US'],0,tt1457767,7.5,491048,150.432,2010
+tm180572,Insidious: Chapter 2,MOVIE,2013,PG-13,106,"['thriller', 'horror']",['US'],0,tt2226417,6.5,167549,52.127,2010
+ts14583,BoJack Horseman,SHOW,2014,TV-MA,26,"['drama', 'comedy', 'animation']",['US'],6,tt3398228,8.8,143584,92.62,2010
+ts6,House of Cards,SHOW,2013,TV-MA,52,['drama'],['US'],6,tt1856010,8.7,494092,46.137,2010
+ts20108,Henry Danger,SHOW,2014,TV-G,24,"['scifi', 'action', 'comedy', 'family']",['US'],5,tt3596174,5.6,5245,121.52,2010
+tm148671,A Walk Among the Tombstones,MOVIE,2014,R,113,"['drama', 'thriller', 'action', 'crime']",['US'],0,tt0365907,6.5,120389,73.108,2010
+tm182429,Olympus Has Fallen,MOVIE,2013,R,119,"['thriller', 'action', 'drama']",['US'],0,tt2302755,6.5,272334,84.497,2010
+tm153284,The Giver,MOVIE,2014,PG-13,97,"['drama', 'scifi', 'romance', 'thriller']",['US'],0,tt0435651,6.4,118117,15.835,2010
+ts20823,Orange Is the New Black,SHOW,2013,TV-MA,59,"['drama', 'comedy', 'crime']",['US'],7,tt2372162,8.1,295591,72.825,2010
+ts20824,The Originals,SHOW,2013,TV-14,43,"['scifi', 'drama', 'fantasy', 'horror']",['US'],5,tt2632424,8.3,131574,139.994,2010
+ts21367,Jane the Virgin,SHOW,2014,TV-14,42,"['drama', 'comedy']",['US'],5,tt3566726,7.8,46286,120.677,2010
+tm151807,Creep,MOVIE,2014,R,77,"['horror', 'thriller']",['US'],0,tt2428170,6.3,52233,13.284,2010
+tm145655,St. Vincent,MOVIE,2014,PG-13,102,"['comedy', 'drama']",['US'],0,tt2170593,7.2,102103,21.451,2010
+ts20280,Marco Polo,SHOW,2014,TV-MA,55,"['action', 'drama', 'history', 'documentation']",['US'],2,tt2189461,8,71229,34.279,2010
+ts35682,Wentworth,SHOW,2013,TV-MA,46,"['drama', 'crime', 'thriller']",['AU'],9,tt2433738,8.6,21747,29.782,2010
+ts20261,Madam Secretary,SHOW,2014,TV-14,43,"['war', 'thriller', 'drama']",['US'],6,tt3501074,7.6,22563,56.834,2010
+tm161525,The Green Inferno,MOVIE,2013,R,100,"['horror', 'thriller']","['CA', 'CL', 'US']",0,tt2403021,5.3,43149,35.625,2010
+tm175843,Dark Skies,MOVIE,2013,PG-13,97,"['thriller', 'horror', 'scifi', 'documentation']",['US'],0,tt4190332,6.3,75139,25.799,2010
+ts34950,KILL la KILL,SHOW,2013,TV-MA,25,"['action', 'scifi', 'fantasy', 'animation', 'comedy', 'drama']",['JP'],1,tt3114390,7.9,13372,20.572,2010
+tm181270,The Frozen Ground,MOVIE,2013,R,105,"['thriller', 'drama', 'crime']",['US'],0,tt2005374,6.4,62183,11.872,2010
+ts20791,Z Nation,SHOW,2014,TV-14,43,"['action', 'drama', 'scifi', 'comedy', 'horror', 'romance']",['US'],5,tt3843168,6.6,36059,81.469,2010
+ts20288,From Dusk Till Dawn: The Series,SHOW,2014,TV-14,45,"['scifi', 'crime', 'fantasy', 'horror', 'action']",['US'],3,tt3337194,6.9,20132,38.919,2010
+tm168400,Empire State,MOVIE,2013,R,94,"['drama', 'crime', 'thriller', 'action', 'european']",['US'],0,tt2171867,5.2,21368,42.802,2010
+ts2727,Derek,SHOW,2013,TV-MA,26,"['drama', 'comedy', 'european']",['GB'],3,tt2616280,8.1,31976,9.748,2010
+tm237143,Shrek the Musical,MOVIE,2013,PG-13,130,"['fantasy', 'family', 'comedy']",['US'],0,tt3070936,6.9,3634,15.817,2010
+tm176630,The Butler,MOVIE,2013,PG-13,132,"['drama', 'european']",['US'],0,tt1327773,7.2,114013,12.932,2010
+ts32218,The Thundermans,SHOW,2013,TV-G,24,"['action', 'scifi', 'family', 'comedy', 'drama']",['US'],4,tt2712516,5.6,5340,62.125,2010
+ts20097,Hemlock Grove,SHOW,2013,TV-MA,49,"['thriller', 'drama', 'fantasy', 'horror', 'scifi']",['US'],3,tt2309295,7,39590,52.542,2010
+tm178712,Scary Movie 5,MOVIE,2013,PG-13,86,"['comedy', 'horror']",['US'],0,tt0795461,3.5,70814,72.044,2010
+ts314002,The Seven Deadly Sins,SHOW,2014,TV-14,24,"['action', 'scifi', 'comedy', 'fantasy', 'animation']",['JP'],5,tt3909224,7.9,30341,37.744,2010
+ts20281,Sofia the First,SHOW,2013,TV-Y,24,"['family', 'fantasy', 'animation']",['US'],4,tt2136138,6.8,2915,34.201,2010
+ts20014,Sailor Moon Crystal,SHOW,2014,TV-14,24,"['scifi', 'animation', 'action', 'comedy', 'drama', 'fantasy', 'romance', 'family']",['JP'],4,tt3124992,7.8,2115,59.673,2010
+tm187979,Cloudy with a Chance of Meatballs 2,MOVIE,2013,PG,95,"['comedy', 'family', 'fantasy', 'scifi', 'drama', 'animation']",['US'],0,tt1985966,6.3,100637,41.511,2010
+ts35570,Lovesick,SHOW,2014,TV-MA,24,"['comedy', 'european']",['GB'],3,tt4051832,8.1,19259,14.348,2010
+ts32271,Shtisel,SHOW,2013,TV-14,48,['drama'],['IL'],3,tt3069894,8.6,6958,18.747,2010
+ts4213,The Chase,SHOW,2013,TV-PG,44,['reality'],['US'],5,tt3077336,7.5,886,1.639,2010
+tm161282,Penguins of Madagascar,MOVIE,2014,PG,92,"['comedy', 'animation', 'family', 'scifi']",['US'],0,tt1911658,6.6,88708,84.347,2010
+tm184608,Texas Chainsaw 3D,MOVIE,2013,R,92,"['horror', 'thriller']",['US'],0,tt1572315,4.8,49312,46.799,2010
+tm144046,Jackass Presents: Bad Grandpa .5,MOVIE,2014,PG-13,86,['comedy'],['US'],0,tt3766424,6.3,0,20.423,2010
+ts20917,The Night Shift,SHOW,2014,TV-14,42,"['drama', 'romance', 'fantasy', 'horror', 'action', 'animation', 'comedy']",['US'],4,tt1483202,7.5,12069,21.667,2010
+ts35282,The Next Step,SHOW,2013,TV-G,24,"['drama', 'romance', 'family']",['CA'],7,tt2374744,5.9,1928,21.631,2010
+tm161029,Mr. Peabody & Sherman,MOVIE,2014,PG,92,"['action', 'family', 'animation', 'history', 'scifi', 'romance', 'comedy', 'fantasy']",['US'],0,tt0864835,6.8,68790,30.69,2010
+tm143474,Vampire Academy,MOVIE,2014,PG-13,104,"['fantasy', 'horror', 'thriller', 'action', 'comedy', 'drama']",['US'],0,tt1686821,5.4,54190,17.252,2010
+tm140342,"I, Frankenstein",MOVIE,2014,PG-13,92,"['horror', 'thriller', 'scifi', 'action', 'fantasy']","['AU', 'US']",0,tt1418377,5.1,80733,16.066,2010
+tm141648,Seventh Son,MOVIE,2014,PG-13,120,"['fantasy', 'action']","['US', 'GB', 'CN', 'CA']",0,tt1121096,5.5,76395,49.025,2010
+ts20336,Velvet,SHOW,2014,TV-14,57,"['drama', 'romance', 'thriller', 'action', 'crime', 'european']",['ES'],4,tt2955402,8.1,6018,28.303,2010
+ts36836,Zach Stone Is Gonna Be Famous,SHOW,2013,TV-PG,20,['comedy'],['US'],1,tt1748277,8.3,3616,5.587,2010
+tm142856,Sabotage,MOVIE,2014,R,109,"['drama', 'thriller', 'western', 'action', 'crime']",['US'],0,tt1742334,5.7,63007,27.573,2010
+ts22426,The Irregular at Magic High School,SHOW,2014,TV-14,24,"['scifi', 'romance', 'animation', 'action', 'drama', 'fantasy']",['JP'],2,tt3874528,7.1,3273,55.055,2010
+tm181081,The Railway Man,MOVIE,2013,R,116,"['drama', 'european', 'war', 'romance']","['GB', 'AU', 'CH']",0,tt2058107,7.1,39743,8.993,2010
+ts42168,Resurrection: Ertugrul,SHOW,2014,TV-14,57,"['war', 'action', 'drama', 'history']",['TR'],5,tt4320258,7.9,35515,23.136,2010
+tm178211,Life of Crime,MOVIE,2013,R,94,"['comedy', 'crime']",['US'],0,tt1663207,5.8,18793,15.068,2010
+tm144121,Get on Up,MOVIE,2014,PG-13,139,"['drama', 'music']",['US'],0,tt2473602,6.9,24456,9.246,2010
+ts22383,Rabbids Invasion,SHOW,2013,TV-Y7,10,"['comedy', 'animation', 'family', 'european']","['FR', 'US']",4,tt3105674,5.5,1802,18.955,2010
+tm151447,The November Man,MOVIE,2014,R,108,"['crime', 'action', 'thriller']","['GB', 'US']",0,tt2402157,6.3,67243,14.82,2010
+ts11794,The Cat in the Hat Knows a Lot About That!,SHOW,2013,TV-Y,19,"['animation', 'fantasy', 'scifi', 'comedy', 'family']","['US', 'GB', 'CA']",3,tt1699440,6.4,620,5.963,2010
+tm154797,The Nut Job,MOVIE,2014,PG,85,"['comedy', 'crime', 'family', 'animation']","['CA', 'KR']",0,tt1821658,5.7,28295,15.247,2010
+ts20310,Girlfriends' Guide to Divorce,SHOW,2014,TV-14,42,"['comedy', 'drama']",['US'],5,tt2817246,6.9,4523,10.046,2010
+tm159796,Brick Mansions,MOVIE,2014,PG-13,90,"['crime', 'drama', 'action', 'thriller']","['CA', 'FR']",0,tt1430612,5.6,42137,31.413,2010
+tm181533,The Big Wedding,MOVIE,2013,R,90,"['comedy', 'drama', 'romance']",['US'],0,tt1931435,5.6,49549,8.928,2010
+ts35244,Tiny House Nation,SHOW,2014,TV-PG,43,['reality'],['US'],5,tt3869500,7.1,1126,8.872,2010
+tm469911,Bonnie & Clyde,MOVIE,2013,PG-13,240,"['drama', 'crime', 'european']",['AT'],0,tt2374851,0,0,0.933,2010
+ts82979,Talking Tom and Friends,SHOW,2014,TV-G,11,"['comedy', 'drama', 'family', 'action', 'animation', 'fantasy', 'european']",['US'],5,tt4648640,6.1,411,34.469,2010
+tm148976,The Battered Bastards of Baseball,MOVIE,2014,R,80,"['documentation', 'sport']",['US'],0,tt3445270,8,3953,6.34,2010
+ts10206,Ever After High,SHOW,2013,TV-Y7,30,"['action', 'comedy', 'drama', 'family', 'fantasy', 'music', 'romance', 'animation']",['CA'],5,tt3312378,7.7,1130,34.405,2010
+ts20709,Yowamushi Pedal,SHOW,2013,TV-14,24,"['comedy', 'drama', 'sport', 'animation']",['JP'],4,tt2942228,7.7,808,44.311,2010
+ts32060,Sam & Cat,SHOW,2013,TV-G,24,"['drama', 'family', 'comedy']",['US'],1,tt2487090,5.6,9507,37.963,2010
+tm166628,The Smurfs 2,MOVIE,2013,PG,105,"['fantasy', 'animation', 'comedy', 'family']",['US'],0,tt2017020,5.3,41571,36.043,2010
+tm171228,Metallica: Through the Never,MOVIE,2013,R,93,['music'],['US'],0,tt2172935,7.1,17433,16.923,2010
+tm136601,Walk of Shame,MOVIE,2014,R,95,['comedy'],['US'],0,tt2463288,6,54065,20.142,2010
+tm143757,Search Party,MOVIE,2014,R,93,['comedy'],['US'],0,tt2758904,5.6,7789,6.29,2010
+tm143372,Stand by Me Doraemon,MOVIE,2014,G,90,"['fantasy', 'animation', 'comedy', 'drama', 'family', 'scifi']",['JP'],0,tt3331846,7.3,7812,54.237,2010
+tm71148,Thanks for Sharing,MOVIE,2013,R,112,"['drama', 'comedy', 'romance']",['US'],0,tt1932718,6.4,28204,7.824,2010
+tm180599,The Haunting in Connecticut 2: Ghosts of Georgia,MOVIE,2013,R,101,"['horror', 'thriller', 'drama']",['US'],0,tt1457765,5.2,17170,19.018,2010
+ts20790,Young & Hungry,SHOW,2014,TV-14,21,"['comedy', 'drama', 'romance']",['US'],5,tt2084712,7.3,15627,26.61,2010
+tm185208,Elena,MOVIE,2013,PG-13,82,"['documentation', 'european', 'drama', 'family']","['US', 'BR']",0,tt2719278,7.6,1823,4.112,2010
+ts20883,"Nicky, Ricky, Dicky & Dawn",SHOW,2014,TV-G,23,"['comedy', 'family']",['US'],4,tt3596176,5.1,2551,43.714,2010
+tm167944,Berserk: The Golden Age Arc III - The Advent,MOVIE,2013,NC-17,110,"['fantasy', 'action', 'drama', 'horror', 'romance', 'animation']",['JP'],0,tt2358913,7.8,9942,53.956,2010
+ts33590,The Haunted Hathaways,SHOW,2013,TV-G,24,"['comedy', 'family', 'fantasy']",['US'],2,tt2535732,5,2471,23.622,2010
+tm159362,A Haunted House 2,MOVIE,2014,R,86,"['comedy', 'horror', 'fantasy']",['US'],0,tt2828996,4.6,21514,86.877,2010
+ts21368,Black Money Love,SHOW,2014,TV-MA,90,"['action', 'drama', 'romance', 'crime']",['TR'],2,tt3565486,7.4,5975,47.857,2010
+ts2161,Angry Birds Toons,SHOW,2013,TV-Y,2,"['comedy', 'family', 'fantasy', 'animation', 'action', 'european']",['FI'],4,tt3012598,6.2,800,12.303,2010
+tm172710,We Steal Secrets: The Story of WikiLeaks,MOVIE,2013,R,162,['documentation'],['US'],0,tt1824254,6.9,7873,6.838,2010
+tm157085,Effie Gray,MOVIE,2014,PG-13,85,"['drama', 'romance']",['GB'],0,tt1605798,6,5482,9.304,2010
+tm174289,Free Birds,MOVIE,2013,PG,91,"['comedy', 'family', 'scifi', 'animation']",['US'],0,tt1621039,5.8,23917,16.617,2010
+tm171929,The Short Game,MOVIE,2013,PG,100,"['documentation', 'sport']",['US'],0,tt2466830,7.3,1518,5.747,2010
+tm147913,PK,MOVIE,2014,PG-13,153,"['comedy', 'drama', 'romance', 'fantasy', 'scifi']",['IN'],0,tt2338151,8.2,178012,9.887,2010
+tm170919,Underdogs,MOVIE,2013,PG,106,"['romance', 'drama', 'documentation', 'sport', 'animation', 'family']","['AR', 'ES']",0,tt4382260,6.5,9535,32.55,2010
+tm180643,Jinxed,MOVIE,2013,G,70,"['fantasy', 'comedy', 'family']","['CA', 'US']",0,tt2934844,6.4,1444,7.932,2010
+ts34066,Mako Mermaids: An H2O Adventure,SHOW,2013,TV-G,25,"['scifi', 'action', 'comedy', 'drama', 'family', 'fantasy', 'romance']",['AU'],4,tt2548214,6.7,3924,54.741,2010
+tm152843,Swearnet: The Movie,MOVIE,2014,R,112,['comedy'],['CA'],0,tt2380564,6.1,2652,3.288,2010
+tm176481,Chennai Express,MOVIE,2013,PG-13,141,"['romance', 'comedy', 'drama', 'action']",['IN'],0,tt2112124,6.1,53293,9.481,2010
+ts53641,Lalaloopsy,SHOW,2013,TV-Y,23,['animation'],['US'],3,tt2827502,6.4,104,0.975,2010
+ts37187,Senora Acero,SHOW,2014,TV-MA,43,"['crime', 'drama', 'romance']",['US'],5,tt3904068,6.8,375,128.933,2010
+ts58137,Pac-Man and the Ghostly Adventures,SHOW,2013,TV-Y7,22,"['action', 'animation', 'comedy', 'drama', 'family', 'fantasy', 'scifi']","['US', 'CA', 'JP']",3,tt2392179,4.8,635,16.672,2010
+ts75104,Zbrodnia,SHOW,2014,TV-MA,45,"['crime', 'action']",['PL'],2,tt4173216,6.2,660,2.366,2010
+ts521,Black Ink Crew New York,SHOW,2013,TV-14,41,['reality'],['US'],9,tt2738096,4.6,459,12.706,2010
+ts33840,Nagi-Asu: A Lull in the Sea,SHOW,2013,TV-14,23,"['scifi', 'animation', 'drama', 'fantasy', 'romance']",['JP'],2,tt3104236,7.3,1152,29.64,2010
+ts58010,VeggieTales in the House,SHOW,2014,TV-G,18,"['comedy', 'family', 'music', 'animation']",['US'],4,tt3692064,4.3,300,6.244,2010
+tm148910,Haider,MOVIE,2014,PG-13,150,"['drama', 'action', 'crime', 'thriller']",['IN'],0,tt3390572,8.1,54001,8.213,2010
+tm143363,2 States,MOVIE,2014,PG,149,"['comedy', 'drama', 'romance']",['IN'],0,tt2372678,6.9,25344,6.973,2010
+ts16117,20 Minutes,SHOW,2013,TV-MA,45,"['action', 'drama', 'romance']",['TR'],1,tt2544148,7.3,1681,2.902,2010
+tm158671,A Fairly Odd Summer,MOVIE,2014,G,68,"['fantasy', 'animation', 'comedy', 'family']",['US'],0,tt3149536,4,533,10.552,2010
+ts76743,Dokidoki! PreCure,SHOW,2013,TV-G,23,"['action', 'animation', 'comedy', 'drama', 'fantasy', 'family']",['JP'],2,tt4621212,6.3,188,8.391,2010
+tm158980,Khoobsurat,MOVIE,2014,PG,130,"['comedy', 'romance']",['IN'],0,tt3554418,6.5,8330,5.228,2010
+tm148597,Monty Python: Live (Mostly),MOVIE,2014,R,138,"['comedy', 'documentation']",['GB'],0,tt3872778,7.6,2598,6.936,2010
+tm155291,Highway,MOVIE,2014,PG-13,133,"['drama', 'crime', 'romance']",['IN'],0,tt2980794,7.6,28370,8.364,2010
+tm156811,Queen,MOVIE,2014,PG-13,146,"['drama', 'comedy']",['IN'],0,tt3322420,8.2,64805,9.152,2010
+ts75833,Masha's Spooky Stories,SHOW,2014,TV-Y,5,"['animation', 'family']",['RU'],1,tt4570676,6.1,65,8.658,2010
+ts3799,All Hail King Julien,SHOW,2014,TV-Y7,23,"['action', 'comedy', 'family', 'fantasy', 'animation']",['US'],5,tt3807022,7,2008,41.022,2010
+ts35628,Some Assembly Required,SHOW,2014,TV-G,25,"['comedy', 'documentation', 'reality']",['CA'],4,tt1160042,8.5,22,16.83,2010
+ts20781,Incomplete Life,SHOW,2014,TV-14,73,"['drama', 'comedy']",['KR'],1,tt4240730,8.6,1883,10.121,2010
+tm149578,Mission Blue,MOVIE,2014,PG,94,"['documentation', 'drama']",['US'],0,tt2004304,7.9,1950,6.267,2010
+tm186054,ABCD,MOVIE,2013,PG-13,136,"['drama', 'music']",['IN'],0,tt2321163,6.3,6898,3.278,2010
+tm147518,City of God: 10 Years Later,MOVIE,2013,PG,69,['documentation'],['BR'],0,tt4103686,6.4,1299,10.181,2010
+tm178513,Bombay Talkies,MOVIE,2013,PG-13,127,['drama'],['IN'],0,tt2797242,6.6,5372,4.856,2010
+tm142630,Ragini MMS 2,MOVIE,2014,PG-13,120,['horror'],['IN'],0,tt2609218,3.9,2870,3.524,2010
+tm185797,Fukrey,MOVIE,2013,PG-13,137,"['romance', 'comedy', 'drama']",['IN'],0,tt2806788,6.9,11656,2.509,2010
+tm154729,Dedh Ishqiya,MOVIE,2014,R,152,"['drama', 'romance', 'thriller', 'comedy']",['IN'],0,tt2675978,7,7179,3.05,2010
+tm148457,Hasee Toh Phasee,MOVIE,2014,PG-13,141,"['comedy', 'romance']",['IN'],0,tt3173910,6.8,14916,6.095,2010
+tm186161,Boss,MOVIE,2013,PG-13,143,"['action', 'comedy', 'crime', 'drama']",['IN'],0,tt2763724,5.3,11059,4.795,2010
+ts34074,"That Winter, the Wind Blows",SHOW,2013,TV-MA,63,['drama'],['KR'],1,tt2806646,7.6,1803,3.764,2010
+tm151927,Mary Kom,MOVIE,2014,PG-13,122,"['drama', 'sport', 'action']",['IN'],0,tt3001638,6.9,10656,3.899,2010
+ts122290,Dharmakshetra,SHOW,2014,TV-14,44,['drama'],['IN'],1,tt6803712,8.2,247,0.6,2010
+tm149914,Jim Jefferies: Bare,MOVIE,2014,R,76,['comedy'],['US'],0,tt3958494,8,5407,7.515,2010
+tm145216,Dabbe 5: Zehr-i Cin,MOVIE,2014,R,132,['horror'],['TR'],0,tt3886722,6,3708,4.722,2010
+tm160034,Humpty Sharma Ki Dulhania,MOVIE,2014,PG,133,"['drama', 'comedy', 'romance']",['IN'],0,tt3678938,6,12757,7.415,2010
+tm172027,The Butterfly's Dream,MOVIE,2013,PG-13,138,"['drama', 'history', 'romance']",['TR'],0,tt2882532,7.8,21882,5.001,2010
+tm146657,Jeff Dunham: All Over the Map,MOVIE,2014,PG-13,41,['comedy'],"['IL', 'NO', 'ZA', 'AE', 'GB', 'IS', 'IE']",0,tt4209802,7.1,854,2.472,2010
+ts82860,Against the Tide,SHOW,2014,TV-14,44,['drama'],['SG'],1,tt7131682,7.6,11,0.6,2010
+tm183805,Ghanchakkar,MOVIE,2013,PG,137,"['thriller', 'crime', 'comedy']",['IN'],0,tt2246724,5.8,5019,4.011,2010
+ts36127,Turbo FAST,SHOW,2013,TV-PG,19,"['animation', 'family', 'comedy', 'sport', 'scifi', 'action']",['US'],3,tt3010520,6.5,593,12.093,2010
+tm184511,Inkaar,MOVIE,2013,R,133,"['drama', 'romance', 'thriller']",['IN'],0,tt2094854,6.2,2565,3.296,2010
+ts67797,Sammy & Co,SHOW,2014,TV-PG,14,"['animation', 'european']",['US'],2,tt2580128,5.6,30,1.298,2010
+tm157461,Coming Soon,MOVIE,2014,PG,134,"['drama', 'comedy', 'romance']",['TR'],0,tt3698408,7.5,33714,6.452,2010
+tm144541,Refugiado,MOVIE,2014,R,95,"['drama', 'thriller', 'european']",['AR'],0,tt3717390,6.4,365,2.419,2010
+tm177645,Wedding Association,MOVIE,2013,PG-13,106,['comedy'],['XX'],0,tt3726104,7.1,22186,5.58,2010
+tm183002,Madras Cafe,MOVIE,2013,PG-13,130,"['thriller', 'action', 'drama']",['IN'],0,tt2855648,7.7,24319,5.821,2010
+tm144557,Deliha,MOVIE,2014,PG-13,107,"['comedy', 'family', 'romance']",['TR'],0,tt4470892,4.5,4315,4.801,2010
+tm143299,Ungli,MOVIE,2014,PG-13,114,"['comedy', 'drama', 'thriller', 'crime']",['IN'],0,tt2392447,5.8,3888,4.258,2010
+tm182580,Ghadi,MOVIE,2013,PG-13,100,"['drama', 'comedy', 'family']",['LB'],0,tt3190580,7.3,1128,2.143,2010
+tm197423,1-Oct,MOVIE,2014,PG-13,149,['thriller'],['NG'],0,tt3206616,6.4,424,3.018,2010
+tm167342,Satyagraha,MOVIE,2013,PG,152,"['drama', 'documentation']",['IN'],0,tt2275802,5.9,5127,3.416,2010
+tm158546,Raja Natwarlal,MOVIE,2014,PG,141,"['thriller', 'crime']",['IN'],0,tt3483712,6.1,4280,3.002,2010
+tm250364,Chhota Bheem in the Incan Adventure,MOVIE,2013,G,64,"['animation', 'fantasy']",['XX'],0,tt4171600,7.4,31,0.6,2010
+tm187118,What the Fish,MOVIE,2013,PG-13,98,"['drama', 'comedy']",['IN'],0,tt3357416,5.2,210,1.931,2010
+ts20238,Boss & Me,SHOW,2014,TV-PG,45,"['comedy', 'romance']",['CN'],1,tt6186406,7.3,424,5.461,2010
+tm147908,Anaamika,MOVIE,2014,PG,124,['thriller'],['IN'],0,tt2939898,5.5,260,2.385,2010
+tm150962,Mumbai Delhi Mumbai,MOVIE,2014,PG,120,"['comedy', 'romance']",['IN'],0,tt4045666,5.7,354,1.118,2010
+ts32752,Two Fathers,SHOW,2013,TV-14,44,"['comedy', 'drama']",['TW'],1,tt6707142,8,54,3.73,2010
+ts144527,World at Your Feet,SHOW,2014,TV-14,44,['drama'],['SG'],1,tt4544590,0,0,0,2010
+tm250247,Chhota Bheem & Krishna vs Zimbara,MOVIE,2013,G,64,['animation'],[],0,tt6417984,8.6,13,2.025,2010
+tm157783,Gollu Aur Pappu,MOVIE,2014,G,112,['comedy'],['IN'],0,tt4219300,3.8,118,1.636,2010
+ts107543,Mystic Whispers,SHOW,2014,TV-14,26,"['comedy', 'romance']",['SG'],1,tt8834748,6.9,17,0,2010
+tm528044,Chhota Bheem Neeli Pahaadi,MOVIE,2013,G,63,['animation'],[],0,tt6442694,8.5,9,0,2010
+tm175364,Chhota Bheem Aur Hanuman,MOVIE,2013,G,67,"['fantasy', 'animation']",['IN'],0,tt6417854,7.1,33,1.077,2010
+tm529733,Chhota Bheem and the ShiNobi Secret,MOVIE,2013,G,63,['animation'],['IN'],0,tt6417830,8.6,6,0,2010
+tm481846,Chhota Bheem Dus pe Dus,MOVIE,2014,G,62,['animation'],['XX'],0,tt6417940,5.1,23,0,2010
+ts8,Better Call Saul,SHOW,2015,TV-MA,49,"['comedy', 'drama', 'crime']",['US'],6,tt3032476,8.8,404920,352.657,2010
+ts36577,The Last Kingdom,SHOW,2015,TV-MA,55,"['action', 'war', 'drama', 'history', 'european']",['GB'],5,tt4179452,8.5,126473,180.003,2010
+ts38796,Stranger Things,SHOW,2016,TV-14,52,"['scifi', 'drama', 'fantasy', 'horror', 'thriller']",['US'],5,tt4575572,8.7,989090,249.853,2010
+ts21867,Schitt's Creek,SHOW,2015,TV-14,22,['comedy'],['CA'],6,tt3526078,8.5,112537,38.016,2010
+ts37143,Alone,SHOW,2015,TV-MA,48,"['reality', 'documentation']",['US'],8,tt4803766,8.4,4622,31.271,2010
+ts35251,Grace and Frankie,SHOW,2015,TV-MA,30,"['comedy', 'drama']",['US'],7,tt3609352,8.2,48435,33.885,2010
+ts41766,The Good Place,SHOW,2016,TV-14,23,"['scifi', 'comedy', 'romance', 'drama', 'fantasy']",['US'],4,tt4955642,8.2,148562,39.411,2010
+ts36885,Ash vs Evil Dead,SHOW,2015,TV-MA,30,"['action', 'scifi', 'comedy', 'horror', 'fantasy', 'thriller']",['US'],3,tt4189022,8.4,70087,50.633,2010
+ts37539,One-Punch Man,SHOW,2015,TV-PG,24,"['action', 'fantasy', 'scifi', 'animation', 'comedy']",['JP'],2,tt4508902,8.7,148386,132.794,2010
+ts37490,Chicago Med,SHOW,2015,TV-14,41,['drama'],['US'],8,tt4655480,7.6,24142,101.31,2010
+ts41961,Queen of the South,SHOW,2016,TV-MA,42,"['drama', 'thriller', 'action', 'crime']",['US'],5,tt1064899,7.9,28537,54.867,2010
+ts42069,The Crown,SHOW,2016,TV-MA,56,"['drama', 'history', 'european']","['US', 'GB']",5,tt4786824,8.7,190878,72.323,2010
+ts37866,Call My Agent!,SHOW,2015,TV-MA,55,"['comedy', 'drama', 'european']",['FR'],4,tt4277922,8.3,13331,15.398,2010
+tm232579,Hunt for the Wilderpeople,MOVIE,2016,PG-13,101,"['comedy', 'drama', 'action']",['NZ'],0,tt4698684,7.8,125720,12.868,2010
+tm243100,Hell or High Water,MOVIE,2016,R,102,"['western', 'thriller', 'action', 'crime', 'drama']",['US'],0,tt2582782,7.6,224900,27.45,2010
+ts38304,Servant of the People,SHOW,2015,TV-MA,29,['comedy'],['UA'],3,tt6235122,7.3,2706,20.006,2010
+ts36952,Documentary Now!,SHOW,2015,TV-14,22,['comedy'],['US'],4,tt4677934,8.1,6445,18.553,2010
+tm150928,It Follows,MOVIE,2015,R,101,"['horror', 'thriller']",['US'],0,tt3235888,6.8,233165,278.419,2010
+ts35793,Forged in Fire,SHOW,2015,TV-PG,42,['reality'],['US'],9,tt4680444,8.3,3538,34.934,2010
+ts39007,Van Helsing,SHOW,2016,TV-14,42,"['scifi', 'fantasy', 'horror', 'action', 'drama']",['US'],5,tt5197820,6.1,21852,155.023,2010
+ts35201,Food Wars! Shokugeki no Soma,SHOW,2015,TV-MA,24,"['animation', 'comedy', 'drama', 'fantasy', 'thriller']",['JP'],5,tt0417325,8.2,9651,27.516,2010
+ts36147,Lucifer,SHOW,2016,TV-14,47,"['scifi', 'crime', 'drama', 'fantasy']",['US'],6,tt4052886,8.1,308291,761.064,2010
+ts36550,DC's Legends of Tomorrow,SHOW,2016,TV-14,42,"['scifi', 'action', 'drama']",['US'],7,tt4532368,6.8,101178,120.753,2010
+tm242705,Raw,MOVIE,2016,R,98,"['horror', 'drama', 'fantasy', 'european']","['BE', 'FR']",0,tt4954522,7,72460,20.038,2010
+tm120108,Kung Fu Panda 3,MOVIE,2016,PG,95,"['comedy', 'animation', 'action', 'family', 'fantasy', 'drama']","['US', 'CN']",0,tt2267968,7.1,152791,73.412,2010
+tm206698,Ouija: Origin of Evil,MOVIE,2016,PG-13,99,"['thriller', 'horror', 'drama']",['US'],0,tt4361050,5.3,6,40.822,2010
+ts38199,The Magicians,SHOW,2015,TV-14,44,"['drama', 'scifi', 'fantasy']",['US'],5,tt4254242,7.6,49557,75.849,2010
+tm239727,Nocturnal Animals,MOVIE,2016,R,115,"['drama', 'thriller']",['US'],0,tt4551306,7.5,264884,54.29,2010
+tm199607,The Gift,MOVIE,2015,R,108,"['thriller', 'drama', 'documentation']","['AU', 'US']",0,tt4178092,7.1,151679,11.328,2010
+ts53051,The OA,SHOW,2016,TV-MA,55,"['scifi', 'drama', 'fantasy']",['US'],2,tt4635282,7.9,100911,25.314,2010
+ts47714,Kim's Convenience,SHOW,2016,TV-14,22,['comedy'],['CA'],5,tt5912064,8.3,16970,26.582,2010
+ts21869,Sense8,SHOW,2015,TV-MA,62,"['scifi', 'thriller', 'drama']",['US'],2,tt2431438,8.2,151518,36.84,2010
+tm204163,War Dogs,MOVIE,2016,R,114,"['crime', 'drama', 'comedy', 'war']",['US'],0,tt2005151,7.1,208185,59.104,2010
+tm135307,Blackhat,MOVIE,2015,R,133,"['thriller', 'action', 'crime']",['US'],0,tt2717822,5.4,58192,57.038,2010
+ts42170,Crashing,SHOW,2016,TV-MA,30,"['comedy', 'european']",['GB'],1,tt5295524,7.7,18546,6.846,2010
+ts70529,Norsemen,SHOW,2016,TV-MA,30,"['comedy', 'drama']",['NO'],3,tt5905354,7.7,18040,28.929,2010
+tm138905,The Hateful Eight,MOVIE,2015,R,188,"['western', 'crime', 'drama', 'thriller']",['US'],0,tt3460252,7.8,570138,23.205,2010
+tm137693,Crimson Peak,MOVIE,2015,R,119,"['thriller', 'drama', 'horror', 'romance', 'fantasy']",['US'],0,tt2554274,6.5,143899,23.276,2010
+ts18010,Bloodline,SHOW,2015,TV-MA,57,"['drama', 'thriller']",['US'],3,tt0219432,7.9,50028,24.67,2010
+ts38718,Slasher,SHOW,2016,TV-MA,46,"['drama', 'horror', 'thriller', 'crime']",['CA'],4,tt13976072,6.7,14071,27.468,2010
+tm136465,Tangerine,MOVIE,2015,R,87,"['comedy', 'drama', 'crime']",['US'],0,tt3824458,7.1,31385,8.572,2010
+ts42120,Travelers,SHOW,2016,TV-MA,45,"['scifi', 'drama', 'thriller', 'crime']",['CA'],3,tt5651844,8,54566,51.169,2010
+tm195209,Legend,MOVIE,2015,R,132,"['thriller', 'crime', 'drama', 'european']","['US', 'FR', 'GB']",0,tt3569230,6.9,175273,72.35,2010
+ts36631,Narcos,SHOW,2015,TV-MA,52,"['drama', 'thriller', 'crime']",['US'],3,tt2707408,8.8,404486,83.072,2010
+ts42062,Miraculous: Tales of Ladybug & Cat Noir,SHOW,2015,TV-Y7,22,"['family', 'fantasy', 'romance', 'animation', 'action']",['FR'],4,tt2580046,7.7,10102,261.845,2010
+ts41956,Designated Survivor,SHOW,2016,TV-PG,44,"['war', 'action', 'drama', 'thriller']",['US'],3,tt5296406,7.5,88019,51.752,2010
+ts52922,Leah Remini: Scientology and the Aftermath,SHOW,2016,TV-14,46,"['documentation', 'history']",['US'],3,tt6244192,9,5761,5.463,2010
+ts36015,Into the Badlands,SHOW,2015,TV-14,43,"['action', 'drama']",['US'],3,tt3865236,7.9,45628,20.79,2010
+ts21981,iZombie,SHOW,2015,TV-14,42,"['scifi', 'comedy', 'crime', 'drama', 'horror']",['US'],5,tt3501584,7.8,66488,53.416,2010
+ts38710,Wynonna Earp,SHOW,2016,TV-14,43,"['action', 'scifi', 'western', 'drama', 'fantasy', 'thriller']","['US', 'CA']",4,tt4878326,7.3,22256,32.006,2010
+tm120609,"Hail, Caesar!",MOVIE,2016,PG-13,106,"['drama', 'comedy', 'music']",['US'],0,tt0475290,6.3,132821,10.97,2010
+ts35253,Dark Matter,SHOW,2015,TV-14,43,"['scifi', 'drama', 'thriller', 'action']",['CA'],3,tt3116070,7.5,41867,26.367,2010
+ts35554,Scream: The TV Series,SHOW,2015,TV-14,43,"['crime', 'horror', 'thriller', 'comedy', 'drama']",['US'],3,tt3921180,7.1,40082,86.551,2010
+ts38090,Versailles,SHOW,2015,TV-MA,54,"['drama', 'history', 'romance', 'war', 'documentation', 'comedy', 'european']","['CA', 'FR']",3,tt3830558,7.9,16273,45.242,2010
+tm233377,The Edge of Seventeen,MOVIE,2016,R,104,"['comedy', 'drama']",['US'],0,tt1878870,7.3,120488,27.428,2010
+ts42014,60 Days In,SHOW,2016,TV-14,46,['reality'],['US'],6,tt10112398,7.6,2616,11.052,2010
+tm193769,Steve Jobs,MOVIE,2015,R,122,['drama'],"['GB', 'US']",0,tt3565344,7.2,166288,13.009,2010
+ts35563,Supergirl,SHOW,2015,TV-14,42,"['scifi', 'drama', 'action']",['US'],6,tt4016454,6.2,121939,116.295,2010
+ts36129,Crazy Ex-Girlfriend,SHOW,2015,TV-14,42,['comedy'],['US'],4,tt4094300,7.8,19738,37.838,2010
+tm233425,A Silent Voice: The Movie,MOVIE,2016,PG-13,130,"['romance', 'animation', 'drama', 'family']",['JP'],0,tt5323662,8.1,75132,131.725,2010
+ts42077,Medici: Masters of Florence,SHOW,2016,TV-14,54,"['war', 'drama', 'history', 'romance', 'thriller', 'european']","['GB', 'IT']",3,tt5057130,7.9,18575,28.95,2010
+ts42687,PJ Masks,SHOW,2015,TV-G,15,"['animation', 'family', 'fantasy', 'scifi', 'action', 'european']",['GB'],5,tt4148744,5.4,1214,54.603,2010
+ts38734,Marcella,SHOW,2016,TV-MA,45,"['crime', 'drama', 'european']",['GB'],3,tt5269594,7.4,30373,16.213,2010
+tm143984,London Has Fallen,MOVIE,2016,R,99,"['thriller', 'crime', 'drama', 'action']","['BG', 'GB', 'US']",0,tt3300542,5.9,155997,36.762,2010
+tm212927,Mr. Right,MOVIE,2016,R,95,"['comedy', 'romance', 'action']",['US'],0,tt2091935,6.3,55118,18.043,2010
+ts53099,Bordertown,SHOW,2016,TV-MA,59,"['drama', 'crime', 'european']",['FI'],3,tt4937942,7.6,10371,15.878,2010
+ts53664,Fauda,SHOW,2015,TV-MA,40,"['war', 'thriller', 'action', 'drama']",['IL'],3,tt4565380,8.3,25239,22.242,2010
+tm143085,Chappie,MOVIE,2015,R,120,"['scifi', 'drama', 'thriller', 'action', 'crime']","['MX', 'ZA', 'US']",0,tt1823672,6.8,247192,110.843,2010
+tm209987,Christine,MOVIE,2016,R,115,['drama'],['US'],0,tt4666726,6.9,14977,8.408,2010
+ts42022,El marginal,SHOW,2016,TV-MA,54,"['crime', 'drama', 'action', 'thriller']",['AR'],5,tt5820976,8.2,3799,140.468,2010
+ts38415,Frontier,SHOW,2016,TV-MA,46,"['action', 'drama', 'history']",['CA'],3,tt4686698,7.1,20706,33.222,2010
+tm137002,Bāhubali: The Beginning,MOVIE,2015,PG-13,159,"['drama', 'action', 'fantasy']",['IN'],0,tt2631186,8,117333,51.091,2010
+ts43209,The Cuba Libre Story,SHOW,2015,TV-14,45,"['documentation', 'history', 'european']",['DE'],2,tt5319838,7.6,1583,3.19,2010
+tm239676,Hush,MOVIE,2016,R,82,"['horror', 'thriller']",['US'],0,tt5022702,6.6,123667,12.617,2010
+ts42169,ERASED,SHOW,2016,TV-14,22,"['drama', 'animation', 'fantasy', 'scifi', 'thriller']",['JP'],1,tt5249462,8.5,42699,21.821,2010
+ts41289,Flowers,SHOW,2016,TV-14,25,"['drama', 'comedy', 'european']",['GB'],2,tt5619658,8.1,5468,4.912,2010
+tm138297,The Conjuring 2,MOVIE,2016,R,134,"['thriller', 'horror', 'drama']",['US'],0,tt3065204,7.3,260693,171.543,2010
+ts38511,Love,SHOW,2016,TV-MA,32,"['drama', 'comedy', 'romance']",['US'],3,tt4061080,7.7,41362,23.492,2010
+tm245271,Gantz:O,MOVIE,2016,NC-17,95,"['animation', 'scifi', 'action', 'drama', 'fantasy', 'thriller', 'horror']",['JP'],0,tt5923962,7.1,14501,24.212,2010
+tm134791,Unfriended,MOVIE,2015,R,82,"['thriller', 'horror', 'drama']",['US'],0,tt3901018,5.5,73854,22.647,2010
+ts21986,Good Witch,SHOW,2015,TV-G,43,"['scifi', 'comedy', 'drama', 'fantasy']",['US'],7,tt3906732,7.2,10392,41.602,2010
+ts41149,The Ranch,SHOW,2016,TV-MA,30,"['comedy', 'drama', 'western']",['US'],5,tt4998212,7.4,37890,28.83,2010
+tm135106,In a Valley of Violence,MOVIE,2016,R,104,"['thriller', 'western', 'drama', 'crime', 'action']",['US'],0,tt3608930,6,18452,18.124,2010
+ts35775,Wet Hot American Summer: First Day of Camp,SHOW,2015,TV-MA,30,['comedy'],['US'],2,tt4341672,7.4,23674,16.899,2010
+ts41975,Shooter,SHOW,2016,TV-14,41,"['war', 'drama', 'action']",['US'],3,tt4181172,7.5,35547,47.07,2010
+tm196125,"Hello, My Name Is Doris",MOVIE,2015,R,95,"['romance', 'comedy', 'drama']",['US'],0,tt3766394,6.6,20377,14.663,2010
+ts41490,Hap and Leonard,SHOW,2016,TV-MA,42,"['action', 'drama', 'crime', 'thriller']",['US'],3,tt3729898,7.6,7577,6.231,2010
+ts36177,Glitch,SHOW,2015,TV-MA,52,"['scifi', 'drama', 'horror', 'thriller']",['AU'],3,tt4192782,7.3,17240,53.857,2010
+ts37464,Occupied,SHOW,2015,TV-MA,45,"['war', 'thriller', 'drama']",['NO'],3,tt4192998,7.7,8839,12.891,2010
+tm196296,A Monster Calls,MOVIE,2016,PG-13,108,"['fantasy', 'drama', 'thriller', 'animation', 'family', 'european']","['ES', 'US', 'GB']",0,tt3416532,7.5,86614,25.422,2010
+ts37971,Master of None,SHOW,2015,TV-MA,32,"['drama', 'comedy']",['US'],3,tt4635276,8.3,72341,21.734,2010
+ts21885,Unbreakable Kimmy Schmidt,SHOW,2015,TV-14,30,"['comedy', 'drama']",['US'],4,tt3339966,7.6,70242,20.333,2010
+tm233214,Under the Shadow,MOVIE,2016,PG-13,84,"['thriller', 'horror', 'war', 'drama', 'fantasy']","['GB', 'IR', 'JO', 'QA']",0,tt4273292,6.8,27125,9.063,2010
+ts38783,Secret City,SHOW,2016,TV-MA,50,"['war', 'thriller']",['AU'],3,tt4976512,7.4,7831,17.549,2010
+tm219233,Loving,MOVIE,2016,PG-13,123,"['drama', 'romance']","['GB', 'US']",0,tt4669986,7,34139,16.292,2010
+ts36983,Fuller House,SHOW,2016,TV-Y7,27,"['comedy', 'family']",['US'],5,tt3986586,6.7,27148,33.47,2010
+ts41963,Easy,SHOW,2016,TV-MA,30,"['drama', 'comedy']",['US'],3,tt5562056,6.9,13569,32.563,2010
+ts52838,3%,SHOW,2016,TV-MA,45,"['scifi', 'action', 'drama', 'thriller']",['BR'],4,tt4922804,7.3,25077,37.982,2010
+ts38204,Making a Murderer,SHOW,2015,TV-14,62,"['crime', 'documentation']",['US'],2,tt5189670,8.6,93456,10.955,2010
+tm199700,The Danish Girl,MOVIE,2015,R,119,"['drama', 'romance', 'european']","['DE', 'GB', 'US', 'BE', 'DK']",0,tt0810819,7.1,180805,19.604,2010
+tm200126,He Never Died,MOVIE,2015,R,99,"['horror', 'fantasy', 'drama', 'thriller', 'comedy']","['CA', 'US']",0,tt3823012,6.4,19936,10.044,2010
+tm132273,Home,MOVIE,2015,PG,95,"['fantasy', 'scifi', 'comedy', 'family', 'animation']",['US'],0,tt2224026,6.6,100705,37.237,2010
+ts36046,BUNK'D,SHOW,2015,TV-G,24,"['comedy', 'family', 'drama']",['US'],5,tt4591680,5.3,3174,36.236,2010
+ts36545,Quantico,SHOW,2015,TV-14,43,"['drama', 'thriller', 'crime']",['US'],3,tt4428122,6.6,60305,33.415,2010
+tm139532,Before I Wake,MOVIE,2016,PG-13,97,"['drama', 'fantasy', 'horror', 'thriller']",['US'],0,tt3176922,6.2,45243,13.359,2010
+ts36856,F is for Family,SHOW,2015,TV-MA,28,"['comedy', 'animation', 'drama']",['US'],5,tt4326894,8,36050,34.434,2010
+tm219248,The Fundamentals of Caring,MOVIE,2016,R,97,"['drama', 'comedy']",['US'],0,tt2452386,7.3,70542,10.667,2010
+ts35362,Locked Up,SHOW,2015,TV-MA,50,"['drama', 'thriller', 'action', 'comedy', 'european']",['ES'],4,tt4524056,8.2,21388,137.792,2010
+tm239743,Batman: The Killing Joke,MOVIE,2016,R,72,"['drama', 'crime', 'thriller', 'animation', 'action']",['US'],0,tt4853102,6.4,55806,29.498,2010
+tm138614,Cop Car,MOVIE,2015,R,86,"['thriller', 'crime']",['US'],0,tt4209984,6.3,32547,10.384,2010
+tm205890,Bastille Day,MOVIE,2016,R,92,"['action', 'drama', 'thriller', 'crime']","['US', 'FR', 'LU', 'GB']",0,tt4649162,6.3,42763,14.921,2010
+tm139841,Sinister 2,MOVIE,2015,R,97,"['horror', 'thriller']","['GB', 'US', 'CA']",0,tt2752772,5.3,53733,26.423,2010
+ts35354,Zoo,SHOW,2015,TV-14,43,"['drama', 'thriller', 'scifi']",['US'],3,tt3250026,6.6,24479,60.53,2010
+tm208622,American Ultra,MOVIE,2015,R,96,"['comedy', 'action', 'scifi']","['US', 'CH']",0,tt3316948,6.1,89912,15.041,2010
+ts38758,Ajin,SHOW,2016,TV-MA,24,"['action', 'animation', 'drama', 'fantasy', 'thriller', 'horror', 'scifi']",['JP'],2,tt5537534,7.6,6121,27.887,2010
+tm204035,Spectral,MOVIE,2016,PG-13,109,"['scifi', 'action', 'thriller']",['US'],0,tt2106651,6.3,58407,38.64,2010
+ts41913,Frequency,SHOW,2016,TV-14,18,"['scifi', 'fantasy', 'thriller', 'drama']",['US'],3,tt5531470,7.5,13625,13.548,2010
+tm134516,"Crouching Tiger, Hidden Dragon: Sword of Destiny",MOVIE,2016,PG-13,103,"['drama', 'fantasy', 'action']",['CN'],0,tt2652118,6.1,19275,22.951,2010
+ts42655,Wanted,SHOW,2016,TV-14,45,"['drama', 'action', 'crime']",['AU'],3,tt5193358,7.6,5693,9.545,2010
+ts3844,Aquarius,SHOW,2015,TV-14,43,"['drama', 'crime', 'thriller', 'european']",['US'],2,tt4744218,7.1,12112,11.944,2010
+ts53287,Roman Empire,SHOW,2016,TV-14,48,"['drama', 'history', 'war', 'documentation']",['US'],3,tt6233538,7,7539,25.738,2010
+tm233465,The Bye Bye Man,MOVIE,2016,PG-13,96,"['thriller', 'fantasy', 'horror', 'drama']",['US'],0,tt4032232,4.3,23588,22.899,2010
+ts42156,Degrassi: Next Class,SHOW,2016,TV-PG,24,"['drama', 'romance']",['CA'],6,tt10947610,6.8,3205,18.683,2010
+tm136257,Beasts of No Nation,MOVIE,2015,R,137,"['war', 'drama']","['US', 'GH']",0,tt1365050,7.7,80129,11.978,2010
+ts41906,The Disastrous Life of Saiki K.,SHOW,2016,TV-14,10,"['scifi', 'comedy', 'animation', 'fantasy']",['JP'],3,tt6354518,8.4,6649,33.948,2010
+ts38116,Mobile Suit Gundam: Iron-Blooded Orphans,SHOW,2015,TV-MA,24,"['scifi', 'war', 'action', 'drama', 'animation']",['JP'],2,tt5344382,7.9,1623,7.838,2010
+tm140843,Self/less,MOVIE,2015,PG-13,116,"['scifi', 'thriller', 'action', 'drama']",['US'],0,tt2157712,6.5,98127,24.934,2010
+tm238722,Collateral Beauty,MOVIE,2016,PG-13,97,"['drama', 'romance']",['US'],0,tt4682786,6.7,99053,25.719,2010
+ts35256,Chef's Table,SHOW,2015,TV-MA,50,['documentation'],['US'],7,tt4295140,8.5,15176,16.397,2010
+ts53249,Trollhunters: Tales of Arcadia,SHOW,2016,TV-Y7,22,"['action', 'scifi', 'fantasy', 'animation', 'comedy', 'drama', 'family']",['US'],3,tt1734135,8.4,16509,35.879,2010
+ts42043,March Comes in Like a Lion,SHOW,2016,TV-PG,25,"['drama', 'animation', 'comedy', 'romance']",['JP'],2,tt6074794,8.4,2586,19.401,2010
+tm200690,The Forest,MOVIE,2016,R,95,"['thriller', 'scifi', 'drama', 'fantasy', 'horror']",['US'],0,tt3387542,4.8,42148,27.63,2010
+tm155102,Demonic,MOVIE,2015,R,83,"['thriller', 'horror']","['GB', 'US']",0,tt1841642,5.3,14882,6.835,2010
+ts35577,God Eater,SHOW,2015,TV-14,23,"['scifi', 'animation', 'action']",['JP'],1,tt5240222,7,1911,23.148,2010
+tm235405,Hyena Road,MOVIE,2015,R,120,"['thriller', 'action', 'drama', 'war']",['CA'],0,tt4034452,6.5,7665,7.365,2010
+ts52830,Gilmore Girls: A Year in the Life,SHOW,2016,TV-14,92,"['comedy', 'drama']",['US'],1,tt5435008,7.6,36359,20.316,2010
+tm230551,Ip Man 3,MOVIE,2015,PG-13,105,"['drama', 'action', 'history']","['HK', 'CN']",0,tt2888046,7,54128,33.711,2010
+ts38731,Rebellion,SHOW,2016,TV-14,51,"['war', 'drama', 'history', 'european']","['GB', 'IE']",2,tt4699982,7.1,3658,14.262,2010
+ts42127,The Windsors,SHOW,2016,TV-MA,27,['comedy'],['GB'],3,tt5692740,7.1,2648,7.115,2010
+ts41948,Hip Hop Evolution,SHOW,2016,TV-MA,48,"['documentation', 'music']",['CA'],4,tt6319696,8.4,5772,5.002,2010
+ts38809,The Get Down,SHOW,2016,TV-MA,62,"['drama', 'music']",['US'],2,tt4592410,8.2,22304,8.755,2010
+tm244403,ARQ,MOVIE,2016,R,88,"['scifi', 'thriller', 'action']",['US'],0,tt5640450,6.3,38463,17.371,2010
+ts79799,Dragons: Race to the Edge,SHOW,2015,TV-Y7,22,"['animation', 'action', 'scifi', 'family', 'comedy', 'drama', 'fantasy']",['US'],6,tt4816058,8.2,6161,58.201,2010
+tm139194,Ratchet & Clank,MOVIE,2016,PG,94,"['action', 'animation', 'comedy', 'family', 'scifi', 'fantasy']","['US', 'CA']",0,tt2870834,5.5,10764,14.238,2010
+tm245671,Dangal,MOVIE,2016,PG,161,"['action', 'drama', 'sport']",['IN'],0,tt5074352,8.4,180247,14.572,2010
+tm233317,Pee-wee's Big Holiday,MOVIE,2016,PG,90,"['comedy', 'family']",['US'],0,tt0837156,6.1,7985,10.761,2010
+ts38568,Flaked,SHOW,2016,TV-MA,32,"['drama', 'romance', 'comedy']",['US'],2,tt4973548,7.2,11264,13.564,2010
+ts37944,A Very Secret Service,SHOW,2015,TV-MA,27,"['comedy', 'european']",['FR'],2,tt4367560,7.7,3461,9.908,2010
+ts42137,Voltron: Legendary Defender,SHOW,2016,TV-Y7,24,"['action', 'scifi', 'animation', 'comedy', 'drama', 'family', 'fantasy']",['US'],8,tt5580664,8.1,8706,38.016,2010
+ts35987,Transformers: Robots In Disguise,SHOW,2015,TV-Y7,21,"['scifi', 'animation', 'action', 'comedy']",['US'],5,tt3604232,6,1048,20.971,2010
+tm123789,The Young Messiah,MOVIE,2016,PG-13,120,"['drama', 'fantasy']",['US'],0,tt1002563,5.6,3542,20.107,2010
+ts38770,Lady Dynamite,SHOW,2016,TV-MA,30,"['comedy', 'drama']",['US'],2,tt4789300,7.3,3655,6.874,2010
+ts42038,No Tomorrow,SHOW,2016,TV-14,47,"['comedy', 'drama', 'romance', 'thriller']",['US'],1,tt1527428,7.3,5101,7.804,2010
+tm244381,Marauders,MOVIE,2016,R,107,"['thriller', 'action', 'crime']",['CA'],0,tt3963816,5.5,21929,24.663,2010
+ts42119,Greenleaf,SHOW,2016,TV-MA,42,['drama'],['US'],5,tt4971144,7.3,5158,16.824,2010
+ts76079,Grizzy & the Lemmings,SHOW,2016,TV-Y7,7,"['comedy', 'animation', 'family', 'european']",['FR'],3,tt6717058,7.1,579,68.219,2010
+tm166321,Our Brand Is Crisis,MOVIE,2015,R,108,"['comedy', 'drama']",['US'],0,tt1018765,6.1,22147,12.35,2010
+tm214825,The Ridiculous 6,MOVIE,2015,PG-13,119,"['western', 'action', 'comedy']",['US'],0,tt2479478,4.8,47935,52.167,2010
+tm238661,Special Correspondents,MOVIE,2016,PG-13,100,['comedy'],"['US', 'CA', 'GB']",0,tt4181052,5.8,23669,14.187,2010
+tm142881,Jem and the Holograms,MOVIE,2015,PG,119,"['fantasy', 'drama', 'family', 'music', 'romance', 'scifi']",['US'],0,tt3614814,4.1,7804,11.088,2010
+tm270504,Mindhorn,MOVIE,2016,R,89,"['comedy', 'thriller']",['GB'],0,tt4799064,6.3,12474,11.533,2010
+tm239707,The Do-Over,MOVIE,2016,PG-13,108,"['action', 'comedy']",['US'],0,tt4769836,5.7,45146,13.392,2010
+ts41995,Zumbo's Just Desserts,SHOW,2016,TV-14,52,['reality'],['AU'],2,tt7239256,6.9,2125,6.212,2010
+tm136061,Suffragette,MOVIE,2015,PG-13,106,"['drama', 'history']","['FR', 'GB']",0,tt3077214,6.9,41529,9.53,2010
+ts78325,Sinatra: All or Nothing at All,SHOW,2015,TV-14,122,"['documentation', 'music']",['US'],1,tt3838978,8,2354,5.024,2010
+tm135543,By the Sea,MOVIE,2015,R,122,"['drama', 'european', 'romance']","['US', 'FR']",0,tt3707106,5.3,20541,9.388,2010
+ts11670,The Adventures of Puss in Boots,SHOW,2015,TV-Y7,23,"['family', 'animation', 'comedy', 'fantasy', 'western', 'action']",['US'],6,tt3807034,6.6,1696,14.724,2010
+ts42090,Last Chance U,SHOW,2016,TV-MA,55,"['documentation', 'sport']",['US'],5,tt5863126,8.4,6789,16.641,2010
+ts86021,Molang,SHOW,2015,TV-G,3,"['animation', 'comedy', 'family', 'european']",['FR'],3,tt6046238,8.4,346,8.324,2010
+ts42257,Signal,SHOW,2016,TV-MA,71,"['crime', 'scifi', 'thriller', 'drama', 'fantasy']",['KR'],2,tt5332206,8.6,6338,8.776,2010
+ts35406,Between,SHOW,2015,TV-14,25,"['scifi', 'drama', 'thriller']",['CA'],2,tt4531748,6,9059,26.43,2010
+ts128895,Midnight Diner: Tokyo Stories,SHOW,2016,TV-14,28,['drama'],['JP'],2,tt6150576,8.4,4109,8.013,2010
+tm138792,Results,MOVIE,2015,R,105,"['comedy', 'romance']",['US'],0,tt3824412,5.4,7073,7.885,2010
+ts37660,Reply 1988,SHOW,2015,TV-14,95,"['comedy', 'drama', 'family', 'romance']",['KR'],1,tt5182866,9.2,6557,15.317,2010
+ts119087,Sunny Bunnies,SHOW,2015,TV-Y,3,"['animation', 'family']",['BY'],4,tt7264084,6.6,95,2.575,2010
+ts41258,Cinderella and Four Knights,SHOW,2016,TV-PG,61,"['comedy', 'drama', 'romance']",['KR'],1,tt5764414,7.5,3663,23.344,2010
+tm308241,Legends of the Hidden Temple,MOVIE,2016,PG,68,['family'],['US'],0,tt5333842,5.7,896,6.75,2010
+ts81483,Simon,SHOW,2016,TV-Y,5,"['animation', 'comedy', 'family']",['FR'],2,tt7699866,7,127,2.878,2010
+ts37896,Conspiracy,SHOW,2015,TV-14,43,"['documentation', 'history', 'european']",['GB'],1,tt4761054,6.2,367,2.731,2010
+ts21979,Spotless,SHOW,2015,TV-MA,58,"['drama', 'comedy', 'crime', 'european']",['FR'],1,tt10800582,7.7,3635,9.159,2010
+tm205870,Message from the King,MOVIE,2016,R,102,"['thriller', 'drama', 'action', 'crime', 'european']",['FR'],0,tt1712192,6.4,16180,10.978,2010
+ts36547,Club de Cuervos,SHOW,2015,TV-MA,44,"['comedy', 'drama']",['MX'],4,tt4680240,8.2,5514,31.739,2010
+ts84398,Little Things,SHOW,2016,TV-MA,25,"['comedy', 'drama', 'romance']",['IN'],4,tt6522580,8.2,6461,8.807,2010
+ts77654,Care Bears and Cousins,SHOW,2015,TV-Y,23,['animation'],['US'],2,tt4680360,6.8,82,4.256,2010
+tm232953,Sleight,MOVIE,2016,R,89,"['thriller', 'crime', 'drama', 'scifi', 'action']",['US'],0,tt4573516,5.9,8644,8.409,2010
+tm233493,Middle School: The Worst Years of My Life,MOVIE,2016,PG,92,"['comedy', 'family', 'animation']",['US'],0,tt4981636,6,8972,15.219,2010
+ts39014,Kuromukuro,SHOW,2016,TV-14,24,"['comedy', 'drama', 'action', 'scifi', 'animation']",['JP'],2,tt5895314,7.2,1265,5.73,2010
+tm140436,Rock the Kasbah,MOVIE,2015,R,100,"['comedy', 'music', 'war']","['MA', 'US']",0,tt3165590,5.5,11963,11.689,2010
+ts38764,Marseille,SHOW,2016,TV-MA,46,"['drama', 'european']",['FR'],2,tt4003966,6.9,5083,7.729,2010
+ts54110,Puffin Rock,SHOW,2015,TV-Y,11,"['animation', 'family', 'comedy', 'european']",['IE'],2,tt3590338,8.7,891,5.367,2010
+ts54156,Chef's Table: France,SHOW,2016,TV-14,60,['documentation'],['US'],1,tt6088326,8.2,1723,2.151,2010
+ts38230,The Method,SHOW,2015,TV-MA,51,"['drama', 'thriller', 'crime']",['RU'],2,tt5135336,7.4,2784,6.495,2010
+ts51368,Skylanders Academy,SHOW,2016,TV-Y7,23,"['action', 'animation', 'comedy', 'family', 'fantasy']",['US'],3,tt5916218,6.7,730,18.291,2010
+tm209950,Kevin Hart: What Now?,MOVIE,2016,R,96,"['comedy', 'documentation']",['US'],0,tt4669186,5.9,9458,8.106,2010
+tm205935,Extraction,MOVIE,2015,R,92,"['thriller', 'action']","['GB', 'US']",0,tt4382872,4.1,11180,19.682,2010
+tm271070,The Warriors Gate,MOVIE,2016,PG-13,108,"['action', 'comedy', 'family', 'fantasy', 'european']","['CA', 'CN', 'FR']",0,tt4652532,5.4,5057,18.103,2010
+tm211510,Incarnate,MOVIE,2016,PG-13,91,"['horror', 'thriller']",['US'],0,tt3216348,5.2,12918,14.776,2010
+tm219173,Term Life,MOVIE,2016,R,93,"['thriller', 'action', 'crime', 'drama']",['US'],0,tt2978102,5.6,7860,20.41,2010
+tm218052,Drishyam,MOVIE,2015,R,163,"['thriller', 'crime', 'drama']",['IN'],0,tt4430212,8.2,79075,7.871,2010
+tm229542,John Mulaney: The Comeback Kid,MOVIE,2015,PG,62,"['comedy', 'documentation']",['US'],0,tt5069564,7.9,8471,4.657,2010
+ts66540,"Can't Cope, Won't Cope",SHOW,2016,TV-MA,23,"['drama', 'comedy', 'european']",['IE'],2,tt5674872,7.3,880,1.537,2010
+ts75829,Lego Bionicle: The Journey to One,SHOW,2016,TV-Y7,17,"['animation', 'action', 'fantasy', 'scifi']",['US'],2,tt5075942,5.5,170,1.4,2010
+ts35360,Inspector Gadget,SHOW,2015,TV-Y,21,"['action', 'comedy', 'family', 'scifi', 'animation']","['CA', 'US']",4,tt3910690,4.5,614,9.398,2010
+ts35359,Heidi,SHOW,2015,TV-Y,27,"['drama', 'family', 'animation', 'european']","['DE', 'AU', 'FR']",2,tt4346362,7.2,234,13.453,2010
+tm266844,True Memoirs of an International Assassin,MOVIE,2016,PG-13,98,"['action', 'comedy', 'crime']",['US'],0,tt1542768,5.9,22466,12.817,2010
+tm238748,The Darkness,MOVIE,2016,PG-13,92,"['thriller', 'horror']",['US'],0,tt1878841,4.5,15848,14.011,2010
+ts42089,Haters Back Off,SHOW,2016,TV-14,30,"['comedy', 'drama', 'family', 'romance']",['US'],2,tt5467814,6.1,7183,8.147,2010
+ts42075,Intersection,SHOW,2016,TV-MA,97,['drama'],['TR'],2,tt5303668,6.7,1152,10.782,2010
+ts43272,Terrace House: Boys & Girls in the City,SHOW,2015,TV-14,29,"['reality', 'drama']",['JP'],1,tt4790546,8.1,1624,4.264,2010
+ts41883,The K2,SHOW,2016,TV-14,65,"['war', 'drama', 'romance', 'thriller']",['KR'],1,tt8535796,7.9,5615,74.751,2010
+ts36630,Dinotrux,SHOW,2015,TV-Y7,23,"['action', 'comedy', 'family', 'animation']",['US'],5,tt1396212,6.8,458,18.042,2010
+ts41260,"Hello, My Twenties!",SHOW,2016,TV-14,63,"['comedy', 'drama', 'romance']",['KR'],2,tt5858892,8.3,2127,15.225,2010
+ts39017,Dawn of the Croods,SHOW,2015,TV-Y7,23,"['comedy', 'family', 'animation']",['US'],4,tt5193172,5.8,712,43.241,2010
+ts38757,Kong: King of the Apes,SHOW,2016,TV-Y7,21,"['animation', 'scifi', 'action', 'comedy', 'family']",['US'],2,tt5462936,5.9,325,11.297,2010
+tm290444,Pandora,MOVIE,2016,R,136,"['drama', 'action', 'thriller']",['KR'],0,tt6302160,6.6,7304,38.145,2010
+tm200454,Ok Kanmani,MOVIE,2015,PG,139,"['drama', 'romance']",['IN'],0,tt4271820,7.5,5722,4.122,2010
+ts35596,Bella and the Bulldogs,SHOW,2015,TV-G,23,"['comedy', 'family', 'sport']",['US'],2,tt3596178,5,2114,11.756,2010
+ts144323,Unnatural Selection,SHOW,2015,TV-MA,35,"['reality', 'documentation', 'comedy']",['US'],1,tt11063952,8.1,12,5.531,2010
+ts42218,Sin senos sí hay paraíso,SHOW,2016,TV-MA,47,"['action', 'drama', 'romance', 'crime']",['CO'],4,tt5676412,6.5,546,285.361,2010
+ts38512,Cooked,SHOW,2016,TV-PG,53,['documentation'],['US'],1,tt5347906,7.6,43,4.669,2010
+ts41294,Mossad 101,SHOW,2015,TV-MA,42,"['action', 'drama']",['IL'],2,tt4354042,6.8,632,4.877,2010
+ts43501,Secrets of Great British Castles,SHOW,2015,TV-PG,51,"['documentation', 'history', 'european']",['GB'],2,tt5181284,7.8,1031,2.774,2010
